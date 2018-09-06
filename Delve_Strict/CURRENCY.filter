@@ -69,6 +69,8 @@ Show
     SetBorderColor 255 196 0
     SetFontSize 45
     PlayAlertSound ShChaos 300
+    MinimapIcon 0 Yellow Hexagon
+    PlayEffect Yellow
 
 Show
     Class "Currency"

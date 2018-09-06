@@ -8,6 +8,8 @@ Show
     SetBorderColor 180 96 0
     SetFontSize 45
     PlayAlertSound 14 300
+    MinimapIcon 0 White Star
+    PlayEffect White
 
 Show
     Sockets >= 6
@@ -17,6 +19,8 @@ Show
     SetBorderColor 180 96 0
     SetFontSize 45
     PlayAlertSound 8 300
+	MinimapIcon 0 Brown Star
+    PlayEffect Brown
 
 Show
     Sockets >= 5
@@ -26,6 +30,8 @@ Show
     SetBorderColor 180 96 0
     SetFontSize 45
     PlayAlertSound 8 300
+	MinimapIcon 0 Brown Star
+    PlayEffect Brown
 
 Show
     Corrupted True
@@ -35,6 +41,8 @@ Show
     SetBorderColor 210 0 0
     SetFontSize 40
     PlayAlertSound 8 300
+	MinimapIcon 0 Brown Star
+    PlayEffect Brown
 
 Show
     Identified True
@@ -44,6 +52,8 @@ Show
     SetBorderColor 180 96 0
     SetFontSize 35
     PlayAlertSound 8 300
+	MinimapIcon 0 Brown Star
+    PlayEffect Brown
 
 Show
     Rarity = Unique
@@ -52,6 +62,8 @@ Show
     SetBorderColor 180 96 0
     SetFontSize 40
     PlayAlertSound 8 300
+    MinimapIcon 0 Brown Star
+    PlayEffect Brown
 
 Show
     Corrupted True
