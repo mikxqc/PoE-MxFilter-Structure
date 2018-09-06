@@ -1,0 +1,27 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    Rarity = Rare
+    Class "Rings"
+    BaseType "Breach"
+    SetTextColor 255 255 119
+    SetBackgroundColor 74 0 160 200
+    SetBorderColor 49 5 99 200
+    SetFontSize 40
+
+Show
+    Rarity = Rare
+    Class "Rings"
+    SetTextColor 255 255 119
+    SetBackgroundColor 54 54 54
+    SetBorderColor 128 0 128
+    SetFontSize 40
+
+Show
+    Rarity = Rare
+    Class "Amulets"
+    SetTextColor 255 255 119
+    SetBackgroundColor 54 54 54
+    SetBorderColor 128 0 128
+    SetFontSize 40
+

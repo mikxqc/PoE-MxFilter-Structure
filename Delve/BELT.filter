@@ -1,0 +1,48 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    Corrupted True
+    Rarity = Rare
+    Class "Belts"
+    SetTextColor 255 255 0
+    SetBackgroundColor 170 158 130
+    SetBorderColor 210 0 0
+    SetFontSize 40
+
+Show
+    Identified True
+    Rarity = Rare
+    Class "Belts"
+    SetTextColor 255 255 0
+    SetBackgroundColor 170 158 130
+    SetBorderColor 51 45 30
+    SetFontSize 30
+
+Show
+    ItemLevel >= 75
+    ItemLevel <= 100
+    Rarity = Rare
+    Class "Belts"
+    SetTextColor 255 255 0
+    SetBackgroundColor 170 158 130
+    SetBorderColor 184 218 242
+    SetFontSize 40
+
+Show
+    ItemLevel >= 60
+    ItemLevel <= 74
+    Rarity = Rare
+    Class "Belts"
+    SetTextColor 255 255 0
+    SetBackgroundColor 170 158 130
+    SetBorderColor 222 118 0
+    SetFontSize 40
+
+Show
+    Rarity = Rare
+    Class "Belts"
+    SetTextColor 255 255 0
+    SetBackgroundColor 170 158 130
+    SetBorderColor 51 45 30
+    SetFontSize 40
+

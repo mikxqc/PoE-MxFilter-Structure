@@ -1,0 +1,44 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    LinkedSockets = 6
+    SetTextColor 74 0 160
+    SetBackgroundColor 255 255 255
+    SetBorderColor 74 0 160
+    SetFontSize 45
+    PlayAlertSound 14 300
+
+Show
+    Sockets = 6
+    SetTextColor 168 93 255
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 40
+    PlayAlertSound 2 300
+
+Show
+    LinkedSockets >= 3
+    SocketGroup "RGB"
+    SetTextColor 200 200 200
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 40
+    PlayAlertSound 2 300
+
+Show
+    Rarity = Normal
+    BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+    SetTextColor 219 182 127
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 40
+    PlayAlertSound 2 300
+
+Show
+    BaseType "Stone Hammer" "Rock Breaker" "Gavel"
+    SetTextColor 219 182 127
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 35
+    PlayAlertSound 2 300
+

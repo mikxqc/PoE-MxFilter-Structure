@@ -1,0 +1,24 @@
+Show
+    Class "Flask"
+    BaseType "Mana"
+    SetBackgroundColor 74 0 160 200
+    SetBorderColor 0 0 255
+    SetFontSize 35
+
+Show
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Mana"
+    SetTextColor 30 144 255
+    SetBackgroundColor 74 0 160 200
+    SetBorderColor 0 0 255
+    SetFontSize 40
+
+Show
+    Rarity = Unique
+    Class "Flask"
+    BaseType "Mana"
+    SetTextColor 180 96 0
+    SetBackgroundColor 74 0 160 200
+    SetBorderColor 0 0 255
+    SetFontSize 45

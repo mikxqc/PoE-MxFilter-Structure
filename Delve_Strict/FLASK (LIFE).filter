@@ -1,0 +1,18 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+Show
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Life"
+    SetBackgroundColor 74 0 160 200
+    SetBorderColor 210 0 0
+    SetFontSize 35
+
+Show
+    Rarity = Unique
+    Class "Flask"
+    BaseType "Life"
+    SetTextColor 180 96 0
+    SetBackgroundColor 74 0 160 200
+    SetBorderColor 210 0 0
+    SetFontSize 45
+    PlayAlertSound 8 300

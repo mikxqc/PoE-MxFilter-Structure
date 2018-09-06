@@ -1,0 +1,100 @@
+{
+	"structures": [{
+			"section": "MISC",
+			"gen": false
+		}, {
+			"section": "ESSENCE",
+			"gen": false
+		}, {
+			"section": "SKILL GEM",
+			"gen": false
+		}, {
+			"section": "FLASK (LIFE)",
+			"gen": false
+		}, {
+			"section": "FLASK (MANA)",
+			"gen": false
+		}, {
+			"section": "FLASK (HYBRID)",
+			"gen": false
+		}, {
+			"section": "FLASK (OTHERS)",
+			"gen": false
+		}, {
+			"section": "MAPS",
+			"gen": false
+		}, {
+			"section": "JEWEL",
+			"gen": false
+		}, {
+			"section": "DIVINATION CARD (GEN)",
+			"gen": true
+		}, {
+			"section": "DIVINATION CARD",
+			"gen": false
+		}, {
+			"section": "CURRENCY",
+			"gen": false
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Maps)",
+			"gen": true
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Weapons)",
+			"gen": true
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Armours)",
+			"gen": true
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Accessories)",
+			"gen": true
+		}, {
+			"section": "ABYSS BELT",
+			"gen": false
+		}, {
+			"section": "ELDER ITEM",
+			"gen": false
+		}, {
+			"section": "SHAPER ITEM",
+			"gen": false
+		}, {
+			"section": "TIERS",
+			"gen": false
+		}, {
+			"section": "RING & AMULET",
+			"gen": false
+		}, {
+			"section": "BELT",
+			"gen": false
+		}, {
+			"section": "RECIPES",
+			"gen": false
+		}, {
+			"section": "GEAR BY QUALITY",
+			"gen": false
+		}, {
+			"section": "CHANCING (Body)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Boots)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Gloves)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Helmet)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Quiver)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Shield)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Belt)",
+			"gen": true
+		}, {
+			"section": "HIDE",
+			"gen": false
+		}
+	]
+}

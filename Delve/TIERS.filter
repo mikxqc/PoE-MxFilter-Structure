@@ -1,0 +1,51 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+# Tier A
+
+Show
+	BaseType "Gemini Claw" "Tornado Wand" "Opal Wand" "Prophecy Wand" "Vaal Rapier" "Harpy Rapier" "Profane Wand" "Spiraled Foil" "Skean" "Kris" "Demon Dagger" "Ezomyte Dagger" "Corsair Sword" "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Void Sceptre" "Sambar Sceptre" "Crusader Boots" "Nightmare Bascinet" "Murder Boots" "Dragonscale Boots" "Vaal Greaves" "Stealth Boots" "Murder Mitts" "Dragonscale Gauntlets" "Crusader Gloves" "Vaal Gauntlets" "Praetor Crown" "Deicide Mask" "Eternal Burgonet" "Sinner Tricorne" "Solaris Circlet" "Arcanist Slippers" "Arcanist Gloves" "Mind Cage" "Sorcerer Boots" "Sorcerer Gloves" "Harmonic Spirit Shield" "Supreme Spiked Shield" "Glorious Plate" "Saintly Chainmail" "Spike-Point Arrow Quiver" "Vaal Regalia" "Carnal Armour" "Archon Kite Shield" "Elegant Round Shield" "Pinnacle Tower Shield" "Assassin's Garb" "Broadhead Arrow Quiver" "Gold Ring""Ambusher" "Platinum Kris" "Imbued Wand" "Jewelled Foil" "Imperial Claw" "Titan Gauntlets" "Lion Pelt" "Slink Boots" "Titan Greaves" "Royal Burgonet" "Slink Gloves" "Hubris Circlet" "Titanium Spirit Shield" "Imperial Buckler" "Colossal Tower Shield" "Siege Axe" "Astral Plate" "Bone Helmet" "Two-Stone Ring" "Chain Belt" "Cloth Belt" "Iron Ring" "Unset Ring" "Rustic Sash" "Death Bow" "Leather Belt" "Crystal Belt" "Sorcerer Gloves" "Fingerless Silk Gloves" "Arcanist Gloves" "Conjurer Gloves" "Supreme Spiked Shield" "Mirrored Spiked Shield" "Ezomyte Spiked Shield" "Sovereign Spiked Shield" "Archon Kite Shield" "Mosaic Kite Shield" "Titanium Spirit Shield" "Harmonic Spirit Shield" "Fossilised Spirit Shield" "Titan Greaves" "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Two-Toned Boots" "Crusader Boots" "Murder Boots" "Void Sceptre" "Carnal Sceptre" "Vaal Sceptre" "Platinum Sceptre" "Opal Sceptre" "Abyssal Sceptre" "Crystal Sceptre"
+    Identified True
+    Rarity = Rare
+    SetTextColor 255 215 0
+    SetBackgroundColor 54 54 54
+    SetBorderColor 0 0 0
+    SetFontSize 35
+
+Show
+	BaseType "Gemini Claw" "Tornado Wand" "Opal Wand" "Prophecy Wand" "Vaal Rapier" "Harpy Rapier" "Profane Wand" "Spiraled Foil" "Skean" "Kris" "Demon Dagger" "Ezomyte Dagger" "Corsair Sword" "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Void Sceptre" "Sambar Sceptre" "Crusader Boots" "Nightmare Bascinet" "Murder Boots" "Dragonscale Boots" "Vaal Greaves" "Stealth Boots" "Murder Mitts" "Dragonscale Gauntlets" "Crusader Gloves" "Vaal Gauntlets" "Praetor Crown" "Deicide Mask" "Eternal Burgonet" "Sinner Tricorne" "Solaris Circlet" "Arcanist Slippers" "Arcanist Gloves" "Mind Cage" "Sorcerer Boots" "Sorcerer Gloves" "Harmonic Spirit Shield" "Supreme Spiked Shield" "Glorious Plate" "Saintly Chainmail" "Spike-Point Arrow Quiver" "Vaal Regalia" "Carnal Armour" "Archon Kite Shield" "Elegant Round Shield" "Pinnacle Tower Shield" "Assassin's Garb" "Broadhead Arrow Quiver" "Gold Ring""Ambusher" "Platinum Kris" "Imbued Wand" "Jewelled Foil" "Imperial Claw" "Titan Gauntlets" "Lion Pelt" "Slink Boots" "Titan Greaves" "Royal Burgonet" "Slink Gloves" "Hubris Circlet" "Titanium Spirit Shield" "Imperial Buckler" "Colossal Tower Shield" "Siege Axe" "Astral Plate" "Bone Helmet" "Two-Stone Ring" "Chain Belt" "Cloth Belt" "Iron Ring" "Unset Ring" "Rustic Sash" "Death Bow" "Leather Belt" "Crystal Belt" "Sorcerer Gloves" "Fingerless Silk Gloves" "Arcanist Gloves" "Conjurer Gloves" "Supreme Spiked Shield" "Mirrored Spiked Shield" "Ezomyte Spiked Shield" "Sovereign Spiked Shield" "Archon Kite Shield" "Mosaic Kite Shield" "Titanium Spirit Shield" "Harmonic Spirit Shield" "Fossilised Spirit Shield" "Titan Greaves" "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Two-Toned Boots" "Crusader Boots" "Murder Boots" "Void Sceptre" "Carnal Sceptre" "Vaal Sceptre" "Platinum Sceptre" "Opal Sceptre" "Abyssal Sceptre" "Crystal Sceptre"
+    Corrupted True
+    Rarity = Rare
+    SetTextColor 255 215 0
+    SetBackgroundColor 54 54 54
+    SetBorderColor 210 0 0
+    SetFontSize 35
+
+Show
+	BaseType "Gemini Claw" "Tornado Wand" "Opal Wand" "Prophecy Wand" "Vaal Rapier" "Harpy Rapier" "Profane Wand" "Spiraled Foil" "Skean" "Kris" "Demon Dagger" "Ezomyte Dagger" "Corsair Sword" "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Void Sceptre" "Sambar Sceptre" "Crusader Boots" "Nightmare Bascinet" "Murder Boots" "Dragonscale Boots" "Vaal Greaves" "Stealth Boots" "Murder Mitts" "Dragonscale Gauntlets" "Crusader Gloves" "Vaal Gauntlets" "Praetor Crown" "Deicide Mask" "Eternal Burgonet" "Sinner Tricorne" "Solaris Circlet" "Arcanist Slippers" "Arcanist Gloves" "Mind Cage" "Sorcerer Boots" "Sorcerer Gloves" "Harmonic Spirit Shield" "Supreme Spiked Shield" "Glorious Plate" "Saintly Chainmail" "Spike-Point Arrow Quiver" "Vaal Regalia" "Carnal Armour" "Archon Kite Shield" "Elegant Round Shield" "Pinnacle Tower Shield" "Assassin's Garb" "Broadhead Arrow Quiver" "Gold Ring""Ambusher" "Platinum Kris" "Imbued Wand" "Jewelled Foil" "Imperial Claw" "Titan Gauntlets" "Lion Pelt" "Slink Boots" "Titan Greaves" "Royal Burgonet" "Slink Gloves" "Hubris Circlet" "Titanium Spirit Shield" "Imperial Buckler" "Colossal Tower Shield" "Siege Axe" "Astral Plate" "Bone Helmet" "Two-Stone Ring" "Chain Belt" "Cloth Belt" "Iron Ring" "Unset Ring" "Rustic Sash" "Death Bow" "Leather Belt" "Crystal Belt" "Sorcerer Gloves" "Fingerless Silk Gloves" "Arcanist Gloves" "Conjurer Gloves" "Supreme Spiked Shield" "Mirrored Spiked Shield" "Ezomyte Spiked Shield" "Sovereign Spiked Shield" "Archon Kite Shield" "Mosaic Kite Shield" "Titanium Spirit Shield" "Harmonic Spirit Shield" "Fossilised Spirit Shield" "Titan Greaves" "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Two-Toned Boots" "Crusader Boots" "Murder Boots" "Void Sceptre" "Carnal Sceptre" "Vaal Sceptre" "Platinum Sceptre" "Opal Sceptre" "Abyssal Sceptre" "Crystal Sceptre"
+    Rarity = Rare
+	ItemLevel >= 75
+    ItemLevel <= 100
+    Rarity = Rare
+    SetTextColor 255 215 0
+    SetBackgroundColor 54 54 54
+    SetBorderColor 184 218 242
+    SetFontSize 40
+
+Show
+	BaseType "Gemini Claw" "Tornado Wand" "Opal Wand" "Prophecy Wand" "Vaal Rapier" "Harpy Rapier" "Profane Wand" "Spiraled Foil" "Skean" "Kris" "Demon Dagger" "Ezomyte Dagger" "Corsair Sword" "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Void Sceptre" "Sambar Sceptre" "Crusader Boots" "Nightmare Bascinet" "Murder Boots" "Dragonscale Boots" "Vaal Greaves" "Stealth Boots" "Murder Mitts" "Dragonscale Gauntlets" "Crusader Gloves" "Vaal Gauntlets" "Praetor Crown" "Deicide Mask" "Eternal Burgonet" "Sinner Tricorne" "Solaris Circlet" "Arcanist Slippers" "Arcanist Gloves" "Mind Cage" "Sorcerer Boots" "Sorcerer Gloves" "Harmonic Spirit Shield" "Supreme Spiked Shield" "Glorious Plate" "Saintly Chainmail" "Spike-Point Arrow Quiver" "Vaal Regalia" "Carnal Armour" "Archon Kite Shield" "Elegant Round Shield" "Pinnacle Tower Shield" "Assassin's Garb" "Broadhead Arrow Quiver" "Gold Ring""Ambusher" "Platinum Kris" "Imbued Wand" "Jewelled Foil" "Imperial Claw" "Titan Gauntlets" "Lion Pelt" "Slink Boots" "Titan Greaves" "Royal Burgonet" "Slink Gloves" "Hubris Circlet" "Titanium Spirit Shield" "Imperial Buckler" "Colossal Tower Shield" "Siege Axe" "Astral Plate" "Bone Helmet" "Two-Stone Ring" "Chain Belt" "Cloth Belt" "Iron Ring" "Unset Ring" "Rustic Sash" "Death Bow" "Leather Belt" "Crystal Belt" "Sorcerer Gloves" "Fingerless Silk Gloves" "Arcanist Gloves" "Conjurer Gloves" "Supreme Spiked Shield" "Mirrored Spiked Shield" "Ezomyte Spiked Shield" "Sovereign Spiked Shield" "Archon Kite Shield" "Mosaic Kite Shield" "Titanium Spirit Shield" "Harmonic Spirit Shield" "Fossilised Spirit Shield" "Titan Greaves" "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Two-Toned Boots" "Crusader Boots" "Murder Boots" "Void Sceptre" "Carnal Sceptre" "Vaal Sceptre" "Platinum Sceptre" "Opal Sceptre" "Abyssal Sceptre" "Crystal Sceptre"
+    ItemLevel >= 60
+    ItemLevel <= 74
+    Rarity = Rare
+    SetTextColor 255 215 0
+    SetBackgroundColor 54 54 54
+    SetBorderColor 222 118 0
+    SetFontSize 40
+
+Show
+	BaseType "Gemini Claw" "Tornado Wand" "Opal Wand" "Prophecy Wand" "Vaal Rapier" "Harpy Rapier" "Profane Wand" "Spiraled Foil" "Skean" "Kris" "Demon Dagger" "Ezomyte Dagger" "Corsair Sword" "Vaal Axe" "Coronal Maul" "Harbinger Bow" "Void Sceptre" "Sambar Sceptre" "Crusader Boots" "Nightmare Bascinet" "Murder Boots" "Dragonscale Boots" "Vaal Greaves" "Stealth Boots" "Murder Mitts" "Dragonscale Gauntlets" "Crusader Gloves" "Vaal Gauntlets" "Praetor Crown" "Deicide Mask" "Eternal Burgonet" "Sinner Tricorne" "Solaris Circlet" "Arcanist Slippers" "Arcanist Gloves" "Mind Cage" "Sorcerer Boots" "Sorcerer Gloves" "Harmonic Spirit Shield" "Supreme Spiked Shield" "Glorious Plate" "Saintly Chainmail" "Spike-Point Arrow Quiver" "Vaal Regalia" "Carnal Armour" "Archon Kite Shield" "Elegant Round Shield" "Pinnacle Tower Shield" "Assassin's Garb" "Broadhead Arrow Quiver" "Gold Ring""Ambusher" "Platinum Kris" "Imbued Wand" "Jewelled Foil" "Imperial Claw" "Titan Gauntlets" "Lion Pelt" "Slink Boots" "Titan Greaves" "Royal Burgonet" "Slink Gloves" "Hubris Circlet" "Titanium Spirit Shield" "Imperial Buckler" "Colossal Tower Shield" "Siege Axe" "Astral Plate" "Bone Helmet" "Two-Stone Ring" "Chain Belt" "Cloth Belt" "Iron Ring" "Unset Ring" "Rustic Sash" "Death Bow" "Leather Belt" "Crystal Belt" "Sorcerer Gloves" "Fingerless Silk Gloves" "Arcanist Gloves" "Conjurer Gloves" "Supreme Spiked Shield" "Mirrored Spiked Shield" "Ezomyte Spiked Shield" "Sovereign Spiked Shield" "Archon Kite Shield" "Mosaic Kite Shield" "Titanium Spirit Shield" "Harmonic Spirit Shield" "Fossilised Spirit Shield" "Titan Greaves" "Slink Boots" "Sorcerer Boots" "Dragonscale Boots" "Two-Toned Boots" "Crusader Boots" "Murder Boots" "Void Sceptre" "Carnal Sceptre" "Vaal Sceptre" "Platinum Sceptre" "Opal Sceptre" "Abyssal Sceptre" "Crystal Sceptre"
+    ItemLevel >= 80
+    Rarity <= Magic
+    SetTextColor 255 255 255
+    SetBackgroundColor 54 54 54
+    SetBorderColor 0 0 0
+    SetFontSize 35
+

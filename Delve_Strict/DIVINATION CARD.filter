@@ -1,0 +1,9 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+Show
+    Class "Divination Card"
+    SetTextColor 184 218 242
+    SetBackgroundColor 0 0 0
+    SetBorderColor 184 218 242
+    SetFontSize 40
+    PlayAlertSound 5 150
+

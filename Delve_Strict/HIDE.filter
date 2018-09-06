@@ -1,0 +1,33 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+Hide
+    Quality = 0
+    Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
+
+Hide
+    Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
+
+Hide
+    Sockets < 3
+    Rarity = Magic
+
+Hide
+    Sockets < 3
+    Rarity = Normal
+
+Hide
+    LinkedSockets = 0
+    Rarity = Magic
+
+Hide
+    LinkedSockets = 0
+    Rarity = Normal
+
+Hide
+    Rarity = Rare
+
+Hide
+    Rarity = Magic
+
+Hide
+    Rarity = Normal
+
