@@ -101,7 +101,7 @@ Show
     SetFontSize 35
 
 Show
-    ItemLevel <= 20
+    ItemLevel <= 10
     Rarity = Magic
     SetTextColor 30 144 255
     SetBackgroundColor 0 0 0
@@ -109,7 +109,7 @@ Show
     SetFontSize 30
 
 Show
-    ItemLevel <= 20
+    ItemLevel <= 10
     Rarity = Normal
     SetTextColor 255 255 255
     SetBackgroundColor 0 0 0

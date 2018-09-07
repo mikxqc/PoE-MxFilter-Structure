@@ -33,6 +33,8 @@ Show
     SetBorderColor 210 0 0
     SetFontSize 45
     PlayAlertSound ShMirror 300
+    MinimapIcon 0 White Triangle
+    PlayEffect White
 
 Show
     Class "Currency"
@@ -42,6 +44,8 @@ Show
     SetBorderColor 210 0 0
     SetFontSize 45
     PlayAlertSound ShExalted 300
+    MinimapIcon 0 White Hexagon
+    PlayEffect White
 
 Show
     Class "Currency"
@@ -80,6 +84,8 @@ Show
     SetBorderColor 255 0 0
     SetFontSize 45
     PlayAlertSound ShVaal 300
+    MinimapIcon 0 Red Hexagon
+    PlayEffect Red
 
 Show
     Class "Currency"
@@ -89,6 +95,8 @@ Show
     SetBorderColor 255 255 255
     SetFontSize 45
     PlayAlertSound ShFusing 300
+    MinimapIcon 0 White Square
+    PlayEffect White Temp
 
 Show
     Class "Currency"
@@ -124,6 +132,8 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 128 128 128
     SetFontSize 45
+    MinimapIcon 0 White Square
+    PlayEffect White Temp
 
 Show
     Class "Currency"
@@ -150,6 +160,8 @@ Show
     SetBorderColor 219 182 127
     SetFontSize 45
     PlayAlertSound 3 300
+    MinimapIcon 0 Brown Square
+    PlayEffect Brown Temp
 
 Show
     Class "Currency"
