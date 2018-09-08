@@ -7,6 +7,8 @@ Show
     SetBorderColor 74 0 160
     SetFontSize 45
     PlayAlertSound 14 300
+    MinimapIcon 0 White Triangle
+    PlayEffect White
 
 Show
     Sockets = 6
@@ -15,6 +17,8 @@ Show
     SetBorderColor 136 136 255
     SetFontSize 40
     PlayAlertSound 2 300
+    MinimapIcon 0 Blue Diamond
+    PlayEffect Blue
 
 Show
     LinkedSockets >= 3
@@ -24,6 +28,8 @@ Show
     SetBorderColor 136 136 255
     SetFontSize 40
     PlayAlertSound 2 300
+    MinimapIcon 0 Blue Diamond
+    PlayEffect Blue
 
 Show
     Rarity = Normal
@@ -33,4 +39,6 @@ Show
     SetBorderColor 136 136 255
     SetFontSize 40
     PlayAlertSound 2 300
+    MinimapIcon 0 Blue Diamond
+    PlayEffect Blue
 
