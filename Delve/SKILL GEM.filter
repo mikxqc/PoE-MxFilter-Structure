@@ -5,7 +5,7 @@ Show
     Quality >= 1
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
     SetTextColor 212 2 212
-    SetBackgroundColor 0 0 0 180
+    SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 35
 
@@ -14,7 +14,7 @@ Show
     Quality >= 6
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
     SetTextColor 212 2 212
-    SetBackgroundColor 0 0 0 180
+    SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 40
 
@@ -23,7 +23,7 @@ Show
     Quality >= 11
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
     SetTextColor 212 2 212
-    SetBackgroundColor 0 0 0 180
+    SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 45
 
@@ -31,7 +31,7 @@ Show
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
     BaseType "Added Chaos Damage Support" "Detonate Mines" "Empower Support" "Enhance Support" "Enlighten Support" "Portal" "Vaal"
     SetTextColor 255 255 255
-    SetBackgroundColor 0 0 0 180
+    SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 45
 
@@ -39,14 +39,14 @@ Show
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
     BaseType "Vaal"
     SetTextColor 255 0 0
-    SetBackgroundColor 0 0 0 180
+    SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 45
 
 Show
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
     SetTextColor 212 2 212
-    SetBackgroundColor 0 0 0 180
+    SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 30
 
