@@ -1,6 +1,14 @@
 ﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
 Show
+    Quality < 10
+    Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
+    SetTextColor 212 2 212
+    SetBackgroundColor 0 0 0
+    SetBorderColor 212 2 212
+    SetFontSize 35
+
+Show
     Quality >= 10
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
     SetTextColor 212 2 212
