@@ -31,6 +31,8 @@ Show
     SetBorderColor 30 144 255
     SetFontSize 35
     PlayAlertSound 14 300
+    MinimapIcon 0 Blue Triangle
+    PlayEffect Blue Temp
 
 Show
     BaseType "Mortal Grief" "Mortal Hope" "Mortal Ignorance" "Mortal Rage"
@@ -39,6 +41,8 @@ Show
     SetBorderColor 94 3 3
     SetFontSize 45
     PlayAlertSound 14 300
+    MinimapIcon 0 White Triangle
+    PlayEffect White
 
 Show
     BaseType "Maze of the Minotaur Map" "Fragment of the Minotaur" "Lair of the Hydra Map" "Fragment of the Hydra" "Forge of the Phoenix Map" "Fragment of the Phoenix" "Pit of the Chimera Map" "Fragment of the Chimera"
@@ -47,6 +51,8 @@ Show
     SetBorderColor 94 3 3
     SetFontSize 40
     PlayAlertSound 14 300
+    MinimapIcon 0 White Triangle
+    PlayEffect White
 
 Show
     BaseType "Sacrifice at Midnight"
@@ -72,6 +78,7 @@ Show
     SetBorderColor 255 165 0
     SetFontSize 45
     PlayAlertSound 8 300
+    PlayEffect Brown
 
 Show
     ShapedMap True
@@ -81,6 +88,7 @@ Show
     SetBorderColor 27 162 155
     SetFontSize 45
     PlayAlertSound 1 300
+    PlayEffect Blue
 
 Show
     DropLevel >= 78
@@ -90,6 +98,7 @@ Show
     SetBorderColor 255 0 0
     SetFontSize 40
     PlayAlertSound 1 300
+    PlayEffect Red
 
 Show
     DropLevel >= 73
@@ -99,6 +108,7 @@ Show
     SetBorderColor 255 255 0
     SetFontSize 35
     PlayAlertSound 1 300
+    PlayEffect Yellow
 
 Show
     DropLevel <= 72
@@ -108,4 +118,5 @@ Show
     SetBorderColor 255 255 255
     SetFontSize 35
     PlayAlertSound 1 300
+    PlayEffect White
 

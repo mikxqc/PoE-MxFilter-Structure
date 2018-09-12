@@ -24,3 +24,6 @@ Show
     SetBorderColor 212 2 212
     SetFontSize 45
 
+Hide
+    Class "Active Skill Gems" "Support Skill Gems"
+
