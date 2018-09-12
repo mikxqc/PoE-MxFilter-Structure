@@ -28,7 +28,7 @@ Show
     SetBorderColor 136 136 255
     SetFontSize 40
     PlayAlertSound 2 300
-    MinimapIcon 0 Blue Diamond
+    MinimapIcon 1 Blue Diamond
     PlayEffect Blue
 
 Show
@@ -39,6 +39,6 @@ Show
     SetBorderColor 136 136 255
     SetFontSize 40
     PlayAlertSound 2 300
-    MinimapIcon 0 Blue Diamond
+    MinimapIcon 2 Blue Diamond
     PlayEffect Blue
 
