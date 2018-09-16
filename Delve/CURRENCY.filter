@@ -238,6 +238,7 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 24 105 184
     SetFontSize 35
+    PlayEffect Brown Temp
 
 Show
     Class "Currency"
@@ -246,6 +247,7 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 142 77 255
     SetFontSize 35
+    PlayEffect Brown Temp
 
 Show
     Class "Currency"
@@ -253,6 +255,7 @@ Show
     SetTextColor 227 204 171
     SetBackgroundColor 54 32 3
     SetFontSize 35
+    PlayEffect Brown Temp
 
 Show
     Class "Currency"
@@ -262,6 +265,8 @@ Show
     SetBorderColor 210 0 0
     SetFontSize 33
     PlayAlertSound 3 100
+    MinimapIcon 1 White Hexagon
+    PlayEffect White
 
 Show
     Class "Currency"
@@ -271,6 +276,8 @@ Show
     SetBorderColor 255 196 0
     SetFontSize 33
     PlayAlertSound 3 100
+    MinimapIcon 1 Yellow Hexagon
+    PlayEffect Yellow
 
 Show
     Class "Currency"

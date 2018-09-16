@@ -1,7 +1,10 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
 Show
     BaseType "Essence"
     SetTextColor 30 144 255
-    SetBackgroundColor 0 100 150 200
+    SetBackgroundColor 0 0 0
     SetBorderColor 30 144 255
     SetFontSize 45
     PlayAlertSound 4 300
+

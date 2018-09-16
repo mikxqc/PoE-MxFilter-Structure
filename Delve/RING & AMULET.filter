@@ -1,4 +1,5 @@
 ﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
 Show
     Rarity = Rare
     Class "Rings"
@@ -17,14 +18,6 @@ Show
     SetFontSize 30
 
 Show
-    Rarity = Magic
-    Class "Rings"
-    SetTextColor 30 144 255
-    SetBackgroundColor 54 54 54
-    SetBorderColor 128 0 128
-    SetFontSize 35
-
-Show
     Rarity = Rare
     Class "Rings"
     SetTextColor 255 255 119
@@ -39,14 +32,6 @@ Show
     SetBackgroundColor 54 54 54
     SetBorderColor 128 0 128
     SetFontSize 30
-
-Show
-    Rarity = Magic
-    Class "Amulets"
-    SetTextColor 30 144 255
-    SetBackgroundColor 54 54 54
-    SetBorderColor 128 0 128
-    SetFontSize 35
 
 Show
     Rarity = Rare

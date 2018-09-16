@@ -12,14 +12,14 @@ Show
     PlayEffect White
 
 Show
-    Sockets >= 6
+    Sockets = 6
     Rarity = Unique
     SetTextColor 169 96 255
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
     SetFontSize 45
     PlayAlertSound 8 300
-	MinimapIcon 0 Brown Star
+    MinimapIcon 0 Brown Star
     PlayEffect Brown
 
 Show
@@ -81,7 +81,7 @@ Show
     SetTextColor 255 255 0
     SetBackgroundColor 0 0 0
     SetBorderColor 184 218 242
-    SetFontSize 30
+    SetFontSize 25
 
 Show
     Identified True
@@ -91,7 +91,7 @@ Show
     SetTextColor 255 255 0
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
-    SetFontSize 30
+    SetFontSize 25
 
 Show
     ItemLevel >= 75
@@ -100,7 +100,7 @@ Show
     SetTextColor 255 255 0
     SetBackgroundColor 0 0 0
     SetBorderColor 184 218 242
-    SetFontSize 35
+    SetFontSize 30
 
 Show
     ItemLevel >= 60
@@ -109,7 +109,7 @@ Show
     SetTextColor 255 255 0
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
-    SetFontSize 35
+    SetFontSize 30
 
 Show
     ItemLevel < 60
