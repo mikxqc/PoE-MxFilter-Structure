@@ -21,6 +21,16 @@ Show
     PlayEffect Blue
 
 Show
+    BaseType "Timeworn Reliquary Key"
+    SetTextColor 5 92 5
+    SetBackgroundColor 255 255 255
+    SetBorderColor 5 92 5
+    SetFontSize 45
+    PlayAlertSound 14 300
+    MinimapIcon 0 Green Star
+    PlayEffect Green
+
+Show
     Class "Currency"
     BaseType "Fishing Rod"
     SetTextColor 214 46 7
@@ -238,6 +248,7 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 24 105 184
     SetFontSize 35
+    PlayEffect Brown Temp
 
 Show
     Class "Currency"
@@ -246,6 +257,7 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 142 77 255
     SetFontSize 35
+    PlayEffect Brown Temp
 
 Show
     Class "Currency"
@@ -253,6 +265,7 @@ Show
     SetTextColor 227 204 171
     SetBackgroundColor 54 32 3
     SetFontSize 35
+    PlayEffect Brown Temp
 
 Show
     Class "Currency"
@@ -262,6 +275,8 @@ Show
     SetBorderColor 210 0 0
     SetFontSize 33
     PlayAlertSound 3 100
+    MinimapIcon 1 White Hexagon
+    PlayEffect White
 
 Show
     Class "Currency"
@@ -271,6 +286,8 @@ Show
     SetBorderColor 255 196 0
     SetFontSize 33
     PlayAlertSound 3 100
+    MinimapIcon 1 Yellow Hexagon
+    PlayEffect Yellow
 
 Show
     Class "Currency"
