@@ -57,8 +57,8 @@
 			"section": "SHAPER ITEM",
 			"gen": false
 		}, {
-			"section": "TIERS",
-			"gen": false
+			"section": "Tiers (DATA)",
+			"gen": true
 		}, {
 			"section": "RING & AMULET",
 			"gen": false
