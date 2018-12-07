@@ -1,6 +1,18 @@
 ﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
 Show
+    Identified True
+    Rarity = Unique
+    HasExplicitMod "Veil"
+    SetTextColor 184 218 242
+    SetBackgroundColor 0 0 0
+    SetBorderColor 180 96 0
+    SetFontSize 40
+    PlayAlertSound 8 300
+    MinimapIcon 0 Brown Star
+    PlayEffect Brown
+
+Show
     LinkedSockets = 6
     Rarity = Unique
     SetTextColor 74 0 160
@@ -64,6 +76,15 @@ Show
     PlayAlertSound 8 300
     MinimapIcon 0 Brown Star
     PlayEffect Brown
+
+Show
+    Identified True
+    Rarity = Rare
+    HasExplicitMod "Veil"
+    SetTextColor 255 255 0 255
+    SetBackgroundColor 106 136 158
+    SetBorderColor 255 255 0 255
+    SetFontSize 40
 
 Show
     Corrupted True

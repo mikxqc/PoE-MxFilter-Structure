@@ -91,7 +91,8 @@ Show
     PlayEffect Blue
 
 Show
-    DropLevel >= 78
+    MapTier >= 11
+    MapTier <= 15
     Class "Maps" "Labyrinth Map Item" "Map Fragments"
     SetTextColor 255 40 0 220
     SetBackgroundColor 94 3 3
@@ -101,7 +102,8 @@ Show
     PlayEffect Red
 
 Show
-    DropLevel >= 73
+    MapTier >= 6
+    MapTier <= 10
     Class "Maps" "Labyrinth Map Item" "Map Fragments"
     SetTextColor 255 255 0
     SetBackgroundColor 94 3 3
@@ -111,7 +113,7 @@ Show
     PlayEffect Yellow
 
 Show
-    DropLevel <= 72
+    MapTier <= 5
     Class "Maps" "Labyrinth Map Item" "Map Fragments"
     SetTextColor 222 210 182
     SetBackgroundColor 94 3 3
