@@ -1,6 +1,7 @@
 ﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
 Show
+    Class "Map Fragments"
     BaseType "Gilded"
     SetTextColor 255 40 0 220
     SetBackgroundColor 43 36 36
@@ -10,6 +11,7 @@ Show
     PlayEffect Yellow
 
 Show
+    Class "Map Fragments"
     BaseType "Polished"
     SetTextColor 255 40 0 220
     SetBackgroundColor 43 36 36
@@ -19,6 +21,7 @@ Show
     PlayEffect Yellow
 
 Show
+    Class "Map Fragments"
     BaseType "Rusted"
     SetTextColor 255 40 0 220
     SetBackgroundColor 43 36 36
