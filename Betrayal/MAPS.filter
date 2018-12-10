@@ -7,6 +7,7 @@ Show
     SetBorderColor 255 165 0 255
     SetFontSize 45
     PlayAlertSound 1 300
+    PlayEffect Yellow
 
 Show
     BaseType "Polished"
@@ -15,6 +16,7 @@ Show
     SetBorderColor 255 165 0 255
     SetFontSize 40
     PlayAlertSound 1 300
+    PlayEffect Yellow
 
 Show
     BaseType "Rusted"
@@ -23,6 +25,7 @@ Show
     SetBorderColor 255 165 0 255
     SetFontSize 35
     PlayAlertSound 1 300
+    PlayEffect Yellow
 
 Show
     BaseType "Master Cartographer's Sextant"
