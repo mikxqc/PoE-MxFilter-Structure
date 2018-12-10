@@ -1,6 +1,30 @@
 ﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
 Show
+    BaseType "Gilded"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 165 0 255
+    SetFontSize 45
+    PlayAlertSound 1 300
+
+Show
+    BaseType "Polished"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 165 0 255
+    SetFontSize 40
+    PlayAlertSound 1 300
+
+Show
+    BaseType "Rusted"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 165 0 255
+    SetFontSize 35
+    PlayAlertSound 1 300
+
+Show
     BaseType "Master Cartographer's Sextant"
     SetTextColor 0 0 0
     SetBackgroundColor 130 34 16
