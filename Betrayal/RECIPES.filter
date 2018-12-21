@@ -12,22 +12,87 @@ Show
 
 Show
     Sockets = 6
+    Height = 4
+    SetTextColor 168 93 255
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 45
+    MinimapIcon 0 Blue Diamond
+    PlayEffect Blue
+    CustomAlertSound "mx_recipe.mp3"
+
+Show
+    Sockets = 6
+    Height = 3
     SetTextColor 168 93 255
     SetBackgroundColor 38 35 35
     SetBorderColor 136 136 255
     SetFontSize 40
-    PlayAlertSound 2 300
+    CustomAlertSound "mx_recipe.mp3"
     MinimapIcon 0 Blue Diamond
     PlayEffect Blue
 
 Show
     LinkedSockets >= 3
     SocketGroup "RGB"
+    Height = 4
+    SetTextColor 200 200 200
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 45
+    CustomAlertSound "mx_recipe.mp3"
+    MinimapIcon 1 Blue Diamond
+    PlayEffect Blue
+
+Show
+    LinkedSockets >= 3
+    SocketGroup "RGB"
+    Height = 3
+    Width = 2
     SetTextColor 200 200 200
     SetBackgroundColor 38 35 35
     SetBorderColor 136 136 255
     SetFontSize 40
-    PlayAlertSound 2 300
+    CustomAlertSound "mx_recipe.mp3"
+    MinimapIcon 1 Blue Diamond
+    PlayEffect Blue
+
+Show
+    LinkedSockets >= 3
+    SocketGroup "RGB"
+    Height = 2
+    Width = 2
+    SetTextColor 200 200 200
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 35
+    CustomAlertSound "mx_recipe.mp3"
+    MinimapIcon 1 Blue Diamond
+    PlayEffect Blue
+
+Show
+    LinkedSockets >= 3
+    SocketGroup "RGB"
+    Height = 1
+    Width = 2
+    SetTextColor 200 200 200
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 30
+    CustomAlertSound "mx_recipe.mp3"
+    MinimapIcon 1 Blue Diamond
+    PlayEffect Blue
+
+Show
+    LinkedSockets >= 3
+    SocketGroup "RGB"
+    Height = 3
+    Width = 1
+    SetTextColor 200 200 200
+    SetBackgroundColor 38 35 35
+    SetBorderColor 136 136 255
+    SetFontSize 30
+    CustomAlertSound "mx_recipe.mp3"
     MinimapIcon 1 Blue Diamond
     PlayEffect Blue
 
@@ -38,7 +103,7 @@ Show
     SetBackgroundColor 38 35 35
     SetBorderColor 136 136 255
     SetFontSize 40
-    PlayAlertSound 2 300
+    CustomAlertSound "mx_recipe.mp3"
     MinimapIcon 2 Blue Diamond
     PlayEffect Blue
 

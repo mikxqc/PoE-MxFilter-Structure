@@ -117,7 +117,7 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 27 162 155
     SetFontSize 45
-    PlayAlertSound 1 300
+    CustomAlertSound "mx_map_shaped.mp3"
     PlayEffect Blue
 
 Show
@@ -128,7 +128,7 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 0 0
     SetFontSize 40
-    PlayAlertSound 1 300
+    CustomAlertSound "mx_map.mp3"
     PlayEffect Red
 
 Show
@@ -139,7 +139,7 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 255 0
     SetFontSize 35
-    PlayAlertSound 1 300
+    CustomAlertSound "mx_map.mp3"
     PlayEffect Yellow
 
 Show
@@ -149,6 +149,6 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 255 255
     SetFontSize 35
-    PlayAlertSound 1 300
     PlayEffect White
+    CustomAlertSound "mx_map.mp3"
 
