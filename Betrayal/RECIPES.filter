@@ -6,9 +6,9 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 74 0 160
     SetFontSize 45
-    PlayAlertSound 14 300
     MinimapIcon 0 White Triangle
     PlayEffect White
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     Sockets = 6

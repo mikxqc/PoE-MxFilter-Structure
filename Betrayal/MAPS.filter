@@ -70,9 +70,9 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 94 3 3
     SetFontSize 45
-    PlayAlertSound 14 300
     MinimapIcon 0 White Triangle
     PlayEffect White
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     BaseType "Maze of the Minotaur Map" "Fragment of the Minotaur" "Lair of the Hydra Map" "Fragment of the Hydra" "Forge of the Phoenix Map" "Fragment of the Phoenix" "Pit of the Chimera Map" "Fragment of the Chimera"
@@ -80,9 +80,9 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 94 3 3
     SetFontSize 40
-    PlayAlertSound 14 300
     MinimapIcon 0 White Triangle
     PlayEffect White
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     BaseType "Sacrifice at Midnight"
