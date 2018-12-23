@@ -8,9 +8,9 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
     SetFontSize 40
-    PlayAlertSound 8 300
     MinimapIcon 0 Brown Star
     PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
 
 Show
     LinkedSockets = 6
@@ -30,9 +30,9 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
     SetFontSize 45
-    PlayAlertSound 8 300
     MinimapIcon 0 Brown Star
     PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
 
 Show
     Sockets >= 5
@@ -41,9 +41,9 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
     SetFontSize 45
-    PlayAlertSound 8 300
-	MinimapIcon 0 Brown Star
+    MinimapIcon 0 Brown Star
     PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
 
 Show
     Corrupted True
@@ -52,9 +52,9 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 210 0 0
     SetFontSize 40
-    PlayAlertSound 8 300
-	MinimapIcon 0 Brown Star
+    MinimapIcon 0 Brown Star
     PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
 
 Show
     Identified True
@@ -63,9 +63,9 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
     SetFontSize 35
-    PlayAlertSound 8 300
-	MinimapIcon 0 Brown Star
+    MinimapIcon 0 Brown Star
     PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
 
 Show
     Rarity = Unique
@@ -73,9 +73,9 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 180 96 0
     SetFontSize 40
-    PlayAlertSound 8 300
     MinimapIcon 0 Brown Star
     PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
 
 Show
     Identified True
