@@ -107,8 +107,8 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 165 0
     SetFontSize 45
-    PlayAlertSound 8 300
     PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
 
 Show
     ShapedMap True
