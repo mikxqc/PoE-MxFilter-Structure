@@ -9,6 +9,7 @@ Show
     SetFontSize 30
     MinimapIcon 1 Brown Circle
     PlayEffect Brown
+    CustomAlertSound "mx_scroll.mp3"
 
 Show
     Class "Currency"
@@ -19,6 +20,7 @@ Show
     SetFontSize 30
     MinimapIcon 1 Blue Circle
     PlayEffect Blue
+    CustomAlertSound "mx_scroll.mp3"
 
 Show
     BaseType "Timeworn Reliquary Key"
@@ -26,9 +28,9 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 5 92 5
     SetFontSize 45
-    PlayAlertSound 14 300
     MinimapIcon 0 Green Star
     PlayEffect Green
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     Class "Currency"
@@ -37,7 +39,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 0
     SetFontSize 45
-    PlayAlertSound 9 300
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     Class "Currency"
@@ -134,9 +136,9 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 30 144 255
     SetFontSize 45
-    PlayAlertSound 4 300
     MinimapIcon 0 Blue Square
     PlayEffect Blue Temp
+    CustomAlertSound "mx_currency_t1.mp3"
 
 Show
     Class "Currency"
@@ -185,9 +187,9 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 219 182 127
     SetFontSize 45
-    PlayAlertSound 3 300
     MinimapIcon 0 Brown Square
     PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t1.mp3"
 
 Show
     Class "Currency"
@@ -196,9 +198,9 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 30 144 255
     SetFontSize 45
-    PlayAlertSound 3 300
     MinimapIcon 0 Blue Square
     PlayEffect Blue
+    CustomAlertSound "mx_currency_t1.mp3"
 
 Show
     Class "Currency"
@@ -207,9 +209,9 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 255 255 255
     SetFontSize 45
-    PlayAlertSound 3 300
     MinimapIcon 0 White Square
     PlayEffect White
+    CustomAlertSound "mx_currency_t1.mp3"
 
 Show
     Class "Currency"
@@ -220,6 +222,7 @@ Show
     SetFontSize 40
     MinimapIcon 0 Red Square
     PlayEffect Red Temp
+    CustomAlertSound "mx_currency_t2.mp3"
 
 Show
     Class "Currency"
@@ -230,6 +233,7 @@ Show
     SetFontSize 40
     MinimapIcon 0 Green Square
     PlayEffect Green Temp
+    CustomAlertSound "mx_currency_t2.mp3"
 
 Show
     Class "Currency"
@@ -240,6 +244,7 @@ Show
     SetFontSize 40
     MinimapIcon 0 Brown Circle
     PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
 
 Show
     Class "Currency"
@@ -249,6 +254,7 @@ Show
     SetBorderColor 24 105 184
     SetFontSize 35
     PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
 
 Show
     Class "Currency"
@@ -258,6 +264,7 @@ Show
     SetBorderColor 142 77 255
     SetFontSize 35
     PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
 
 Show
     Class "Currency"
@@ -266,6 +273,7 @@ Show
     SetBackgroundColor 54 32 3
     SetFontSize 35
     PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
 
 Show
     Class "Currency"
@@ -274,9 +282,9 @@ Show
     SetBackgroundColor 255 255 255 220
     SetBorderColor 210 0 0
     SetFontSize 33
-    PlayAlertSound 3 100
     MinimapIcon 1 White Hexagon
     PlayEffect White
+    CustomAlertSound "mx_currency_t1.mp3"
 
 Show
     Class "Currency"
@@ -285,9 +293,9 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 255 196 0
     SetFontSize 33
-    PlayAlertSound 3 100
     MinimapIcon 1 Yellow Hexagon
     PlayEffect Yellow
+    CustomAlertSound "mx_currency_t1.mp3"
 
 Show
     Class "Currency"
@@ -344,7 +352,7 @@ Show
     SetBackgroundColor 94 41 13
     SetBorderColor 255 40 0 220
     SetFontSize 45
-    PlayAlertSound 16 300
+    CustomAlertSound "mx_splinter.mp3"
 
 Show
     Class "Currency"
@@ -353,7 +361,7 @@ Show
     SetBackgroundColor 69 36 19
     SetBorderColor 184 218 242
     SetFontSize 45
-    PlayAlertSound 16 300
+    CustomAlertSound "mx_splinter.mp3"
 
 Show
     Class "Currency"
@@ -362,7 +370,7 @@ Show
     SetBackgroundColor 69 36 19
     SetBorderColor 30 144 255
     SetFontSize 45
-    PlayAlertSound 16 300
+    CustomAlertSound "mx_splinter.mp3"
 
 Show
     Class "Currency"
@@ -371,7 +379,7 @@ Show
     SetBackgroundColor 69 36 19
     SetBorderColor 150 150 150
     SetFontSize 45
-    PlayAlertSound 16 300
+    CustomAlertSound "mx_splinter.mp3"
 
 Show
     Class "Currency"
@@ -380,7 +388,7 @@ Show
     SetBackgroundColor 94 41 13
     SetBorderColor 208 32 144
     SetFontSize 45
-    PlayAlertSound 16 300
+    CustomAlertSound "mx_splinter.mp3"
 
 Show
     Class "Currency" "Stackable Currency"
