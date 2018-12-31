@@ -7,6 +7,7 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 45
+    CustomAlertSound "mx_skillgem.mp3"
 
 Show
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
@@ -15,6 +16,7 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 45
+    CustomAlertSound "mx_skillgem.mp3"
 
 Show
     Quality <= 5
@@ -24,6 +26,7 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 35
+    CustomAlertSound "mx_skillgem.mp3"
 
 Show
     Quality <= 10
@@ -33,6 +36,7 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 40
+    CustomAlertSound "mx_skillgem.mp3"
 
 Show
     Quality <= 20
@@ -42,6 +46,7 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 45
+    CustomAlertSound "mx_skillgem.mp3"
 
 Show
     Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
@@ -49,4 +54,5 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 212 2 212
     SetFontSize 30
+    CustomAlertSound "mx_skillgem.mp3"
 
