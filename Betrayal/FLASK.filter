@@ -10,7 +10,7 @@ Show
     CustomAlertSound "mx_unique.mp3"
 
 Hide
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Normal
     Class "Flask"
     BaseType "Small Life Flask" "Medium Life Flask" "Large Life Flask" "Greater Life Flask" "Grand Life Flask" "Giant Life Flask" "Colossal Life Flask" "Sacred Life Flask" "Hallowed Life Flask" "Sanctified Life Flask" "Divine Life Flask"
@@ -21,7 +21,7 @@ Hide
     CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Normal
     Class "Flask"
     BaseType "Eternal Life Flask"
@@ -32,7 +32,7 @@ Show
     CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel <= 64
+    ItemLevel <= 64
     Rarity = Normal
     Class "Flask"
     BaseType "Life"
@@ -43,7 +43,7 @@ Show
 	CustomAlertSound "mx_flask.mp3"
 
 Hide
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Magic
     Class "Flask"
     BaseType "Small Life Flask" "Medium Life Flask" "Large Life Flask" "Greater Life Flask" "Grand Life Flask" "Giant Life Flask" "Colossal Life Flask" "Sacred Life Flask" "Hallowed Life Flask" "Sanctified Life Flask" "Divine Life Flask"
@@ -54,7 +54,7 @@ Hide
 	CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Magic
     Class "Flask"
     BaseType "Eternal Life Flask"
@@ -65,7 +65,7 @@ Show
 	CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel <= 64
+    ItemLevel <= 64
     Rarity = Magic
     Class "Flask"
     BaseType "Life"
@@ -76,7 +76,7 @@ Show
 	CustomAlertSound "mx_flask.mp3"
 
 Hide
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Normal
     Class "Flask"
     BaseType "Small Mana Flask" "Medium Mana Flask" "Large Mana Flask" "Greater Mana Flask" "Grand Mana Flask" "Giant Mana Flask" "Colossal Mana Flask" "Sacred Mana Flask" "Hallowed Mana Flask" "Sanctified Mana Flask" "Divine Mana Flask"
@@ -87,7 +87,7 @@ Hide
 	CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Normal
     Class "Flask"
     BaseType "Eternal Mana Flask"
@@ -98,7 +98,7 @@ Show
 	CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel <= 64
+    ItemLevel <= 64
     Rarity = Normal
     Class "Flask"
     BaseType "Mana"
@@ -109,7 +109,7 @@ Show
 	CustomAlertSound "mx_flask.mp3"
 
 Hide
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Magic
     Class "Flask"
     BaseType "Small Mana Flask" "Medium Mana Flask" "Large Mana Flask" "Greater Mana Flask" "Grand Mana Flask" "Giant Mana Flask" "Colossal Mana Flask" "Sacred Mana Flask" "Hallowed Mana Flask" "Sanctified Mana Flask" "Divine Mana Flask"
@@ -120,7 +120,7 @@ Hide
 	CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel >= 65
+    ItemLevel >= 65
     Rarity = Magic
     Class "Flask"
     BaseType "Eternal Mana Flask"
@@ -131,7 +131,7 @@ Show
 	CustomAlertSound "mx_flask.mp3"
 
 Show
-    DropLevel <= 64
+    ItemLevel <= 64
     Rarity = Magic
     Class "Flask"
     BaseType "Mana"
