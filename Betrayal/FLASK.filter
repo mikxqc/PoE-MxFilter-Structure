@@ -161,3 +161,23 @@ Show
     SetFontSize 35
 	CustomAlertSound "mx_flask.mp3"
 
+Show
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Quicksilver Flask" "Bismuth Flask" "Stibnite Flask" "Amethyst Flask" "Ruby Flask" "Sapphire Flask" "Topaz Flask" "Silver Flask" "Aquamarine Flask" "Granite Flask" "Jade Flask" "Quartz Flask" "Sulphur Flask" "Sulphur Flask" "Basalt Flask"
+    SetTextColor 255 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 27 162 155
+    SetFontSize 30
+    CustomAlertSound "mx_flask.mp3"
+
+Show
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Quicksilver Flask" "Bismuth Flask" "Stibnite Flask" "Amethyst Flask" "Ruby Flask" "Sapphire Flask" "Topaz Flask" "Silver Flask" "Aquamarine Flask" "Granite Flask" "Jade Flask" "Quartz Flask" "Sulphur Flask" "Sulphur Flask" "Basalt Flask"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 27 162 155
+    SetFontSize 35
+    CustomAlertSound "mx_flask.mp3"
+
