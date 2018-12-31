@@ -9,16 +9,7 @@
 			"section": "SKILL GEM",
 			"gen": false
 		}, {
-			"section": "FLASK (LIFE)",
-			"gen": false
-		}, {
-			"section": "FLASK (MANA)",
-			"gen": false
-		}, {
-			"section": "FLASK (HYBRID)",
-			"gen": false
-		}, {
-			"section": "FLASK (OTHERS)",
+			"section": "FLASK",
 			"gen": false
 		}, {
 			"section": "MAPS",

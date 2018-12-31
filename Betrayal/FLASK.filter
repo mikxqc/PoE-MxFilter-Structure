@@ -1,0 +1,163 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    Rarity = Unique
+    Class "Flask"
+    SetTextColor 180 96 0
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 180 96 0
+    SetFontSize 45
+    CustomAlertSound "mx_unique.mp3"
+
+Hide
+    DropLevel >= 65
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Small Life Flask" "Medium Life Flask" "Large Life Flask" "Greater Life Flask" "Grand Life Flask" "Giant Life Flask" "Colossal Life Flask" "Sacred Life Flask" "Hallowed Life Flask" "Sanctified Life Flask" "Divine Life Flask"
+    SetTextColor 255 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 255 0 0 255
+    SetFontSize 30
+    CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel >= 65
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Eternal Life Flask"
+    SetTextColor 255 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 255 0 0 255
+    SetFontSize 30
+    CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel <= 64
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Life"
+    SetTextColor 255 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 255 0 0 255
+    SetFontSize 30
+	CustomAlertSound "mx_flask.mp3"
+
+Hide
+    DropLevel >= 65
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Small Life Flask" "Medium Life Flask" "Large Life Flask" "Greater Life Flask" "Grand Life Flask" "Giant Life Flask" "Colossal Life Flask" "Sacred Life Flask" "Hallowed Life Flask" "Sanctified Life Flask" "Divine Life Flask"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 255 0 0 255
+    SetFontSize 35
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel >= 65
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Eternal Life Flask"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 255 0 0 255
+    SetFontSize 35
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel <= 64
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Life"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 255 0 0 255
+    SetFontSize 35
+	CustomAlertSound "mx_flask.mp3"
+
+Hide
+    DropLevel >= 65
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Small Mana Flask" "Medium Mana Flask" "Large Mana Flask" "Greater Mana Flask" "Grand Mana Flask" "Giant Mana Flask" "Colossal Mana Flask" "Sacred Mana Flask" "Hallowed Mana Flask" "Sanctified Mana Flask" "Divine Mana Flask"
+    SetTextColor 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 0 0 255 255
+    SetFontSize 30
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel >= 65
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Eternal Mana Flask"
+    SetTextColor 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 0 0 255 255
+    SetFontSize 30
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel <= 64
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Mana"
+    SetTextColor 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 0 0 255 255
+    SetFontSize 30
+	CustomAlertSound "mx_flask.mp3"
+
+Hide
+    DropLevel >= 65
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Small Mana Flask" "Medium Mana Flask" "Large Mana Flask" "Greater Mana Flask" "Grand Mana Flask" "Giant Mana Flask" "Colossal Mana Flask" "Sacred Mana Flask" "Hallowed Mana Flask" "Sanctified Mana Flask" "Divine Mana Flask"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 0 0 255 255
+    SetFontSize 35
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel >= 65
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Eternal Mana Flask"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 0 0 255 255
+    SetFontSize 35
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    DropLevel <= 64
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Mana"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 0 0 255 255
+    SetFontSize 35
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    Rarity = Normal
+    Class "Flask"
+    BaseType "Hybrid"
+    SetTextColor 255 255 255 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 128 0 128 255
+    SetFontSize 30
+	CustomAlertSound "mx_flask.mp3"
+
+Show
+    Rarity = Magic
+    Class "Flask"
+    BaseType "Hybrid"
+    SetTextColor 30 144 255
+    SetBackgroundColor 40 10 76 255
+    SetBorderColor 128 0 128 255
+    SetFontSize 35
+	CustomAlertSound "mx_flask.mp3"
+
