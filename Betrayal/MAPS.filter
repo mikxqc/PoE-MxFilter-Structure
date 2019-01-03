@@ -107,6 +107,7 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 165 0
     SetFontSize 45
+    MinimapIcon 1 Brown Triangle
     PlayEffect Brown
     CustomAlertSound "mx_unique.mp3"
 
@@ -117,8 +118,9 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 27 162 155
     SetFontSize 45
-    CustomAlertSound "mx_map_shaped.mp3"
+    MinimapIcon 1 Blue Triangle
     PlayEffect Blue
+    CustomAlertSound "mx_map_shaped.mp3"
 
 Show
     MapTier >= 11
@@ -128,8 +130,9 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 0 0
     SetFontSize 40
-    CustomAlertSound "mx_map.mp3"
+    MinimapIcon 1 Red Triangle
     PlayEffect Red
+    CustomAlertSound "mx_map.mp3"
 
 Show
     MapTier >= 6
@@ -139,8 +142,9 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 255 0
     SetFontSize 35
-    CustomAlertSound "mx_map.mp3"
+    MinimapIcon 1 Yellow Triangle
     PlayEffect Yellow
+    CustomAlertSound "mx_map.mp3"
 
 Show
     MapTier <= 5
@@ -149,6 +153,7 @@ Show
     SetBackgroundColor 94 3 3
     SetBorderColor 255 255 255
     SetFontSize 35
+    MinimapIcon 1 White Triangle
     PlayEffect White
     CustomAlertSound "mx_map.mp3"
 
