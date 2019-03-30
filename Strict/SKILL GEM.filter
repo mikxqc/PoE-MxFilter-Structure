@@ -48,3 +48,10 @@ Show
     SetFontSize 45
     CustomAlertSound "mx_skillgem.mp3"
 
+Hide
+    Class "Active Skill Gems" "Support Skill Gems" "Skill Gems"
+    SetTextColor 212 2 212
+    SetBackgroundColor 0 0 0
+    SetBorderColor 212 2 212
+    SetFontSize 30
+
