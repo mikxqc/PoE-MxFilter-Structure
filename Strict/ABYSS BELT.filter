@@ -1,0 +1,17 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+Show
+    Rarity = Rare
+    BaseType "Stygian Vise"
+    SetTextColor 255 255 0
+    SetBackgroundColor 64 64 64
+    SetBorderColor 43 41 41
+    SetFontSize 40
+
+Show
+    Rarity = Unique
+    BaseType "Stygian Vise"
+    SetTextColor 180 96 0
+    SetBackgroundColor 64 64 64
+    SetBorderColor 43 41 41
+    SetFontSize 45
+

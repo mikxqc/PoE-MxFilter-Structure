@@ -1,0 +1,159 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    Class "Map Fragments"
+    BaseType "Gilded"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 165 0 255
+    SetFontSize 45
+    PlayAlertSound 1 300
+    PlayEffect Yellow
+
+Show
+    Class "Map Fragments"
+    BaseType "Polished"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 165 0 255
+    SetFontSize 40
+    PlayAlertSound 1 300
+    PlayEffect Yellow
+
+Show
+    Class "Map Fragments"
+    BaseType "Rusted"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 165 0 255
+    SetFontSize 35
+    PlayAlertSound 1 300
+    PlayEffect Yellow
+
+Show
+    BaseType "Master Cartographer's Sextant"
+    SetTextColor 0 0 0
+    SetBackgroundColor 130 34 16
+    SetBorderColor 255 0 0
+    SetFontSize 45
+    PlayAlertSound 11 300
+
+Show
+    BaseType "Journeyman Cartographer's Sextant"
+    SetTextColor 0 0 0
+    SetBackgroundColor 130 34 16
+    SetBorderColor 255 215 0
+    SetFontSize 40
+    PlayAlertSound 11 300
+
+Show
+    BaseType "Apprentice Cartographer's Sextant"
+    SetTextColor 0 0 0
+    SetBackgroundColor 130 34 16
+    SetBorderColor 170 158 130
+    SetFontSize 35
+    PlayAlertSound 11 300
+
+Show
+    BaseType "Divine Vessel"
+    SetTextColor 30 144 255
+    SetBackgroundColor 43 36 36
+    SetBorderColor 30 144 255
+    SetFontSize 35
+    PlayAlertSound 14 300
+    MinimapIcon 0 Blue Triangle
+    PlayEffect Blue Temp
+
+Show
+    BaseType "Mortal Grief" "Mortal Hope" "Mortal Ignorance" "Mortal Rage"
+    SetTextColor 94 3 3
+    SetBackgroundColor 255 255 255
+    SetBorderColor 94 3 3
+    SetFontSize 45
+    MinimapIcon 0 White Triangle
+    PlayEffect White
+    CustomAlertSound "mx_highvalue.mp3"
+
+Show
+    BaseType "Maze of the Minotaur Map" "Fragment of the Minotaur" "Lair of the Hydra Map" "Fragment of the Hydra" "Forge of the Phoenix Map" "Fragment of the Phoenix" "Pit of the Chimera Map" "Fragment of the Chimera"
+    SetTextColor 94 3 3
+    SetBackgroundColor 255 255 255
+    SetBorderColor 94 3 3
+    SetFontSize 40
+    MinimapIcon 0 White Triangle
+    PlayEffect White
+    CustomAlertSound "mx_highvalue.mp3"
+
+Show
+    BaseType "Sacrifice at Midnight"
+    SetTextColor 255 0 0
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 0 0
+    SetFontSize 40
+    PlayAlertSound 1 300
+
+Show
+    BaseType "Sacrifice at Dusk" "Sacrifice at Noon" "Sacrifice at Dawn"
+    SetTextColor 255 0 0
+    SetBackgroundColor 43 36 36
+    SetBorderColor 255 0 0
+    SetFontSize 35
+    PlayAlertSound 1 300
+
+Show
+    Rarity = Unique
+    Class "Maps" "Labyrinth Map Item" "Map Fragments"
+    SetTextColor 255 165 0
+    SetBackgroundColor 94 3 3
+    SetBorderColor 255 165 0
+    SetFontSize 45
+    MinimapIcon 1 Brown Triangle
+    PlayEffect Brown
+    CustomAlertSound "mx_unique.mp3"
+
+Show
+    ShapedMap True
+    Class "Maps" "Labyrinth Map Item" "Map Fragments"
+    SetTextColor 27 162 155
+    SetBackgroundColor 94 3 3
+    SetBorderColor 27 162 155
+    SetFontSize 45
+    MinimapIcon 1 Blue Triangle
+    PlayEffect Blue
+    CustomAlertSound "mx_map_shaped.mp3"
+
+Show
+    MapTier >= 11
+    MapTier <= 15
+    Class "Maps" "Labyrinth Map Item" "Map Fragments"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 94 3 3
+    SetBorderColor 255 0 0
+    SetFontSize 40
+    MinimapIcon 1 Red Triangle
+    PlayEffect Red
+    CustomAlertSound "mx_map.mp3"
+
+Show
+    MapTier >= 6
+    MapTier <= 10
+    Class "Maps" "Labyrinth Map Item" "Map Fragments"
+    SetTextColor 255 255 0
+    SetBackgroundColor 94 3 3
+    SetBorderColor 255 255 0
+    SetFontSize 35
+    MinimapIcon 1 Yellow Triangle
+    PlayEffect Yellow
+    CustomAlertSound "mx_map.mp3"
+
+Show
+    MapTier <= 5
+    Class "Maps" "Labyrinth Map Item" "Map Fragments"
+    SetTextColor 222 210 182
+    SetBackgroundColor 94 3 3
+    SetBorderColor 255 255 255
+    SetFontSize 35
+    MinimapIcon 1 White Triangle
+    PlayEffect White
+    CustomAlertSound "mx_map.mp3"
+
