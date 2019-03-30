@@ -1,28 +1,6 @@
 ﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
 
 Show
-    Class "Currency"
-    BaseType "Scroll of Wisdom"
-    SetTextColor 240 210 167
-    SetBackgroundColor 54 32 3
-    SetBorderColor 231 180 120
-    SetFontSize 30
-    MinimapIcon 1 Brown Circle
-    PlayEffect Brown
-    CustomAlertSound "mx_scroll.mp3"
-
-Show
-    Class "Currency"
-    BaseType "Portal Scroll"
-    SetTextColor 240 210 167
-    SetBackgroundColor 54 32 3
-    SetBorderColor 30 144 255
-    SetFontSize 30
-    MinimapIcon 1 Blue Circle
-    PlayEffect Blue
-    CustomAlertSound "mx_scroll.mp3"
-
-Show
     BaseType "Timeworn Reliquary Key"
     SetTextColor 5 92 5
     SetBackgroundColor 255 255 255
