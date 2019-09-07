@@ -1,0 +1,407 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    Class "Currency"
+    BaseType "Scroll of Wisdom"
+    SetTextColor 240 210 167
+    SetBackgroundColor 54 32 3
+    SetBorderColor 231 180 120
+    SetFontSize 30
+    MinimapIcon 1 Brown Circle
+    PlayEffect Brown
+    CustomAlertSound "mx_scroll.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Portal Scroll"
+    SetTextColor 240 210 167
+    SetBackgroundColor 54 32 3
+    SetBorderColor 30 144 255
+    SetFontSize 30
+    MinimapIcon 1 Blue Circle
+    PlayEffect Blue
+    CustomAlertSound "mx_scroll.mp3"
+
+Show
+    BaseType "Timeworn Reliquary Key"
+    SetTextColor 5 92 5
+    SetBackgroundColor 255 255 255
+    SetBorderColor 5 92 5
+    SetFontSize 45
+    MinimapIcon 0 Green Star
+    PlayEffect Green
+    CustomAlertSound "mx_highvalue.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Fishing Rod"
+    SetTextColor 214 46 7
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 0
+    SetFontSize 45
+    CustomAlertSound "mx_highvalue.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Mirror of Kalandra"
+    SetTextColor 214 46 7
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 0
+    SetFontSize 45
+    PlayAlertSound ShMirror 300
+    MinimapIcon 0 White Triangle
+    PlayEffect White
+
+Show
+    Class "Currency"
+    BaseType "Exalted Orb"
+    SetTextColor 214 46 7
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 0
+    SetFontSize 45
+    PlayAlertSound ShExalted 300
+    MinimapIcon 0 White Hexagon
+    PlayEffect White
+
+Show
+    Class "Currency"
+    BaseType "Ancient Orb"
+    SetTextColor 112 55 2
+    SetBackgroundColor 255 255 255
+    SetBorderColor 112 55 2
+    SetFontSize 40
+    PlayAlertSound ShGeneral 300
+    MinimapIcon 0 White Hexagon
+    PlayEffect White
+
+Show
+    Class "Currency"
+    BaseType "Divine Orb"
+    SetTextColor 255 165 0
+    SetBackgroundColor 255 255 255
+    SetBorderColor 255 165 0
+    SetFontSize 40
+    PlayAlertSound ShDivine 300
+    MinimapIcon 0 White Hexagon
+    PlayEffect White
+
+Show
+    Class "Currency"
+    BaseType "Chaos Orb"
+    SetTextColor 255 196 0
+    SetBackgroundColor 54 32 3
+    SetBorderColor 255 196 0
+    SetFontSize 45
+    PlayAlertSound ShChaos 300
+    MinimapIcon 0 Yellow Hexagon
+    PlayEffect Yellow
+
+Show
+    Class "Currency"
+    BaseType "Vaal Orb"
+    SetTextColor 240 210 167
+    SetBackgroundColor 54 32 3
+    SetBorderColor 255 0 0
+    SetFontSize 45
+    PlayAlertSound ShVaal 300
+    MinimapIcon 0 Red Hexagon
+    PlayEffect Red
+
+Show
+    Class "Currency"
+    BaseType "Orb of Fusing"
+    SetTextColor 240 210 167
+    SetBackgroundColor 54 32 3
+    SetBorderColor 255 255 255
+    SetFontSize 45
+    PlayAlertSound ShFusing 300
+    MinimapIcon 0 White Square
+    PlayEffect White Temp
+
+Show
+    Class "Currency"
+    BaseType "Regal Orb"
+    SetTextColor 240 210 167
+    SetBackgroundColor 54 32 3
+    SetBorderColor 255 255 0
+    SetFontSize 45
+    PlayAlertSound ShRegal 300
+    MinimapIcon 0 Yellow Square
+    PlayEffect Yellow Temp
+
+Show
+    Class "Currency"
+    BaseType "Gemcutter's Prism"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 30 144 255
+    SetFontSize 45
+    MinimapIcon 0 Blue Square
+    PlayEffect Blue Temp
+    CustomAlertSound "mx_currency_t1.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Orb of Alchemy"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 200 200 200
+    SetFontSize 45
+    PlayAlertSound ShAlchemy 300
+    MinimapIcon 0 White Square
+    PlayEffect White Temp
+
+Show
+    Class "Currency"
+    BaseType "Jeweller's Orb"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 128 128 128
+    SetFontSize 45
+    MinimapIcon 0 White Square
+    PlayEffect White Temp
+
+Show
+    Class "Currency"
+    BaseType "Silver Coin"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 128 0 128
+    SetFontSize 45
+    PlayAlertSound 10 300
+
+Show
+    Class "Currency"
+    BaseType "Glassblower's Bauble"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 210 0 220
+    SetFontSize 45
+    MinimapIcon 0 Red Square
+    PlayEffect Red Temp
+
+Show
+    Class "Currency"
+    BaseType "Cartographer's Chisel"
+    SetTextColor 219 182 127
+    SetBackgroundColor 54 32 3
+    SetBorderColor 219 182 127
+    SetFontSize 45
+    MinimapIcon 0 Brown Square
+    PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t1.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Orb of Annulment"
+    SetTextColor 30 144 255
+    SetBackgroundColor 54 32 3
+    SetBorderColor 30 144 255
+    SetFontSize 45
+    MinimapIcon 0 Blue Square
+    PlayEffect Blue
+    CustomAlertSound "mx_currency_t1.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Orb of Regret" "Orb of Scouring"
+    SetTextColor 255 255 255
+    SetBackgroundColor 54 32 3
+    SetBorderColor 255 255 255
+    SetFontSize 45
+    MinimapIcon 0 White Square
+    PlayEffect White
+    CustomAlertSound "mx_currency_t1.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Chromatic Orb"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 255 0 0
+    SetFontSize 40
+    MinimapIcon 0 Red Square
+    PlayEffect Red Temp
+    CustomAlertSound "mx_currency_t2.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Orb of Chance"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 29 122 55
+    SetFontSize 40
+    MinimapIcon 0 Green Square
+    PlayEffect Green Temp
+    CustomAlertSound "mx_currency_t2.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Blessed Orb"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 180 96 0
+    SetFontSize 40
+    MinimapIcon 0 Brown Circle
+    PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Orb of Alteration"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 24 105 184
+    SetFontSize 35
+    PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Blacksmith's Whetstone" "Armourer's Scrap"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 142 77 255
+    SetFontSize 35
+    PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Orb of Transmutation" "Orb of Augmentation"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetFontSize 35
+    PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t2.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Exalted Shard" "Ancient Shard" "Mirror Shard"
+    SetTextColor 214 46 7
+    SetBackgroundColor 255 255 255 220
+    SetBorderColor 210 0 0
+    SetFontSize 33
+    MinimapIcon 1 White Hexagon
+    PlayEffect White
+    CustomAlertSound "mx_currency_t1.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Chaos Shard"
+    SetTextColor 255 196 0
+    SetBackgroundColor 54 32 3
+    SetBorderColor 255 196 0
+    SetFontSize 33
+    MinimapIcon 1 Yellow Hexagon
+    PlayEffect Yellow
+    CustomAlertSound "mx_currency_t1.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Alchemy Shard"
+    SetTextColor 200 200 200
+    SetBackgroundColor 54 32 3
+    SetBorderColor 200 200 200
+    SetFontSize 30
+
+Show
+    Class "Currency"
+    BaseType "Horizon Shard" "Harbinger's Shard"
+    SetTextColor 144 134 255
+    SetBackgroundColor 54 32 3
+    SetBorderColor 144 134 255
+    SetFontSize 33
+
+Show
+    Class "Currency"
+    BaseType "Annulment Shard"
+    SetTextColor 30 144 255
+    SetBackgroundColor 54 32 3
+    SetBorderColor 30 144 255
+    SetFontSize 33
+
+Show
+    Class "Currency"
+    BaseType "Binding Shard"
+    SetTextColor 255 230 93
+    SetBackgroundColor 54 32 3
+    SetBorderColor 227 204 171
+    SetFontSize 30
+
+Show
+    Class "Currency"
+    BaseType "Engineer's Shard"
+    SetTextColor 255 255 255
+    SetBackgroundColor 54 32 3
+    SetBorderColor 227 204 171
+    SetFontSize 30
+
+Show
+    Class "Currency"
+    BaseType "Shard"
+    SetTextColor 227 204 171
+    SetBackgroundColor 54 32 3
+    SetBorderColor 227 204 171
+    SetFontSize 30
+
+Show
+    Class "Currency"
+    BaseType "Splinter of Xoph"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 94 41 13
+    SetBorderColor 255 40 0 220
+    SetFontSize 45
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Splinter of Tul"
+    SetTextColor 184 218 242
+    SetBackgroundColor 69 36 19
+    SetBorderColor 184 218 242
+    SetFontSize 45
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Splinter of Esh"
+    SetTextColor 30 144 255
+    SetBackgroundColor 69 36 19
+    SetBorderColor 30 144 255
+    SetFontSize 45
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Splinter of Uul-Netol"
+    SetTextColor 150 150 150
+    SetBackgroundColor 69 36 19
+    SetBorderColor 150 150 150
+    SetFontSize 45
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    Class "Currency"
+    BaseType "Splinter of Chayula"
+    SetTextColor 208 32 144
+    SetBackgroundColor 94 41 13
+    SetBorderColor 208 32 144
+    SetFontSize 45
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    Class "Currency" "Stackable Currency"
+    BaseType "Perandus Coin"
+    SetTextColor 255 215 0
+    SetBackgroundColor 31 31 31
+    SetBorderColor 255 215 0
+    SetFontSize 35
+
+Show
+    Class "Currency" "Stackable Currency"
+    SetTextColor 255 165 0
+    SetBackgroundColor 0 0 0
+    SetBorderColor 175 96 37
+    SetFontSize 35
+

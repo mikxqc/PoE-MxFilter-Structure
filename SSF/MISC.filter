@@ -1,0 +1,23 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    Class "Quest Items"
+    SetTextColor 17 158 56
+    SetBackgroundColor 200 200 200
+    SetBorderColor 0 0 0
+    SetFontSize 45
+
+Show
+    BaseType "Silver Key" "Golden Key" "Treasure Key"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 200 200 200
+    SetFontSize 45
+
+Show
+    BaseType "Stone of Passage" "Flashpowder Keg"
+    SetTextColor 210 0 0
+    SetBackgroundColor 74 230 58
+    SetBorderColor 210 0 0
+    SetFontSize 45
+    PlayAlertSound 15 300
+

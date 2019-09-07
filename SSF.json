@@ -1,0 +1,76 @@
+{
+	"structures": [{
+			"section": "MISC",
+			"gen": false
+		}, {
+			"section": "ESSENCE",
+			"gen": false
+		}, {
+			"section": "SKILL GEM",
+			"gen": false
+		}, {
+			"section": "FLASK",
+			"gen": false
+		}, {
+			"section": "MAPS",
+			"gen": false
+		}, {
+			"section": "JEWEL",
+			"gen": false
+		}, {
+			"section": "DIVINATION CARD",
+			"gen": false
+		}, {
+			"section": "CURRENCY",
+			"gen": false
+		}, {
+			"section": "ABYSS BELT",
+			"gen": false
+		}, {
+			"section": "ELDER ITEM",
+			"gen": false
+		}, {
+			"section": "SHAPER ITEM",
+			"gen": false
+		}, {
+			"section": "Tiers (DATA)",
+			"gen": true
+		}, {
+			"section": "RING & AMULET",
+			"gen": false
+		}, {
+			"section": "BELT",
+			"gen": false
+		}, {
+			"section": "RECIPES",
+			"gen": false
+		}, {
+			"section": "GEAR BY QUALITY",
+			"gen": false
+		}, {
+			"section": "CHANCING (Body)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Boots)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Gloves)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Helmet)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Quiver)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Shield)",
+			"gen": true
+		}, {
+			"section": "CHANCING (Belt)",
+			"gen": true
+		}, {
+			"section": "HIDE",
+			"gen": false
+		}
+	]
+}
