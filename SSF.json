@@ -48,27 +48,6 @@
 			"section": "GEAR BY QUALITY",
 			"gen": false
 		}, {
-			"section": "CHANCING (Body)",
-			"gen": true
-		}, {
-			"section": "CHANCING (Boots)",
-			"gen": true
-		}, {
-			"section": "CHANCING (Gloves)",
-			"gen": true
-		}, {
-			"section": "CHANCING (Helmet)",
-			"gen": true
-		}, {
-			"section": "CHANCING (Quiver)",
-			"gen": true
-		}, {
-			"section": "CHANCING (Shield)",
-			"gen": true
-		}, {
-			"section": "CHANCING (Belt)",
-			"gen": true
-		}, {
 			"section": "HIDE",
 			"gen": false
 		}
