@@ -45,7 +45,13 @@
 			"section": "RECIPES",
 			"gen": false
 		}, {
+			"section": "GEAR BY CHASE",
+			"gen": false
+		}, {
 			"section": "GEAR BY QUALITY",
+			"gen": false
+		}, {
+			"section": "CHANCING",
 			"gen": false
 		}, {
 			"section": "HIDE",
