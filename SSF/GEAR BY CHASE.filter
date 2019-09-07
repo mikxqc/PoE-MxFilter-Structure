@@ -1,0 +1,13 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    Rarity = Unique
+    BaseType "Simple Robe" "Silk Slippers" "Terror Claw" "Cobalt Jewel" "War Hammer" "Laminated Kite Shield"
+    SetTextColor 175 96 37
+    SetBackgroundColor 255 255 255 255
+    SetBorderColor 175 96 37
+    SetFontSize 45
+    MinimapIcon 0 Brown Triangle
+    PlayEffect Brown
+    CustomAlertSound "mx_chase.mp3"
+
