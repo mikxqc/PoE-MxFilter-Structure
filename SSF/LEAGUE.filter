@@ -1,0 +1,58 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+# Legion
+
+Show
+    BaseType "Timeless Eternal Empire Splinter" "Timeless Eternal Empire Emblem"
+    SetTextColor 127 127 127 255
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    BaseType "Timeless Karui Splinter" "Timeless Karui Emblem"
+    SetTextColor 255 163 0
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    BaseType "Timeless Maraketh Splinter" "Timeless Maraketh Emblem"
+    SetTextColor 247 247 169
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    BaseType "Timeless Templar Splinter" "Timeless Templar Emblem"
+    SetTextColor 0 128 0 255
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    BaseType "Timeless Vaal Splinter" "Timeless Vaal Emblem"
+    SetTextColor 210 0 0
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_splinter.mp3"
+
+Show
+    Class "Incubator"
+    SetTextColor 112 255 112 255
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_splinter.mp3"
+
