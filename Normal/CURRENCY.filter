@@ -7,8 +7,7 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 231 180 120
     SetFontSize 30
-    MinimapIcon 1 Brown Circle
-    PlayEffect Brown
+    PlayEffect Brown Temp
     CustomAlertSound "mx_scroll.mp3"
 
 Show
@@ -18,8 +17,7 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 30 144 255
     SetFontSize 30
-    MinimapIcon 1 Blue Circle
-    PlayEffect Blue
+    PlayEffect Blue Temp
     CustomAlertSound "mx_scroll.mp3"
 
 Show
