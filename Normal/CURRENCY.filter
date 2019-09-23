@@ -172,6 +172,27 @@ Show
 
 Show
     Class "Currency"
+    BaseType "Orb of Horizons"
+    SetTextColor 210 0 220
+    SetBackgroundColor 54 32 3
+    SetBorderColor 210 0 220
+    SetFontSize 45
+    PlayAlertSound 3 300
+    MinimapIcon 0 White Square
+    PlayEffect Brown Temp
+
+Show
+    Class "Currency"
+    BaseType "Prophecy"
+    SetTextColor 107 0 112
+    SetBackgroundColor 245 225 180
+    SetBorderColor 107 0 112
+    SetFontSize 35
+    PlayAlertSound 3 300
+    PlayEffect Brown Temp
+
+Show
+    Class "Currency"
     BaseType "Glassblower's Bauble"
     SetTextColor 227 204 171
     SetBackgroundColor 54 32 3
