@@ -74,6 +74,7 @@ Show
     SetFontSize 35
     MinimapIcon 1 Green Star
     PlayEffect Green
+    CustomAlertSound "mx_league.mp3"
 
 Show
     FracturedItem True
@@ -84,6 +85,7 @@ Show
     SetFontSize 35
     MinimapIcon 1 Green Star
     PlayEffect Green
+    CustomAlertSound "mx_league.mp3"
 
 Show
     SynthesisedItem True
@@ -94,6 +96,7 @@ Show
     SetFontSize 35
     MinimapIcon 1 Green Star
     PlayEffect Green
+    CustomAlertSound "mx_league.mp3"
 
 Show
     Corrupted True
@@ -163,3 +166,4 @@ Show
     SetBackgroundColor 0 0 0
     SetBorderColor 128 128 128
     SetFontSize 30
+

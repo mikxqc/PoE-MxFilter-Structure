@@ -1,5 +1,8 @@
 {
 	"structures": [{
+			"section": "LEAGUE",
+			"gen": false
+		}, {
 			"section": "MISC",
 			"gen": false
 		}, {
@@ -58,9 +61,6 @@
 			"gen": false
 		}, {
 			"section": "RECIPES",
-			"gen": false
-		}, {
-			"section": "LEAGUE",
 			"gen": false
 		}, {
 			"section": "GEAR BY QUALITY",

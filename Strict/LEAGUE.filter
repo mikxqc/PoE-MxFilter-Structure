@@ -54,5 +54,15 @@ Show
     SetBorderColor 112 255 112 255
     SetFontSize 45
     PlayEffect Green Temp
-    CustomAlertSound "mx_splinter.mp3"
+    CustomAlertSound "mx_league.mp3"
+
+Show
+    BlightedMap True
+    SetTextColor 112 255 112 255
+    SetBackgroundColor 94 3 3
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    MinimapIcon 1 Green Triangle
+    PlayEffect Green
+    CustomAlertSound "mx_league.mp3"
 

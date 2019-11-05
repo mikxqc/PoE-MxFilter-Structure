@@ -175,9 +175,9 @@ Show
     SetBackgroundColor 54 32 3
     SetBorderColor 210 0 220
     SetFontSize 45
-    PlayAlertSound 3 300
     MinimapIcon 0 White Square
     PlayEffect Brown Temp
+    CustomAlertSound "mx_rareorb.mp3"
 
 Show
     Class "Currency"
@@ -186,8 +186,8 @@ Show
     SetBackgroundColor 245 225 180
     SetBorderColor 107 0 112
     SetFontSize 35
-    PlayAlertSound 3 300
     PlayEffect Brown Temp
+    CustomAlertSound "mx_prophecy.mp3"
 
 Show
     Class "Currency"
