@@ -212,6 +212,17 @@ Show
 
 Show
     Class "Currency"
+    BaseType "Engineer's Orb"
+    SetTextColor 219 182 127
+    SetBackgroundColor 54 32 3
+    SetBorderColor 219 182 127
+    SetFontSize 40
+    MinimapIcon 0 Brown Square
+    PlayEffect Brown Temp
+    CustomAlertSound "mx_currency_t1.mp3"
+
+Show
+    Class "Currency"
     BaseType "Orb of Annulment"
     SetTextColor 30 144 255
     SetBackgroundColor 54 32 3

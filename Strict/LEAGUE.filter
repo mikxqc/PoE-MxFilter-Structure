@@ -66,3 +66,30 @@ Show
     PlayEffect Green
     CustomAlertSound "mx_league.mp3"
 
+Show
+    BaseType "Amber Oil" "Azure Oil" "Clear Oil" "Crimson Oil" "Teal Oil" "Verdant Oil" "Violet Oil"
+    SetTextColor 112 255 112 255
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 40
+    PlayEffect Green Temp
+    CustomAlertSound "mx_liquid.mp3"
+
+Show
+    BaseType "Black Oil" "Opalescent Oil" "Silver Oil"
+    SetTextColor 112 255 112 255
+    SetBackgroundColor 97 97 97
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_liquid.mp3"
+
+Show
+    BaseType "Golden Oil"
+    SetTextColor 112 255 112 255
+    SetBackgroundColor 255 255 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Green Temp
+    CustomAlertSound "mx_liquid.mp3"
+
