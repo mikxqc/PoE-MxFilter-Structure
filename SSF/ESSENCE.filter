@@ -5,6 +5,6 @@ Show
     SetTextColor 30 144 255
     SetBackgroundColor 0 0 0
     SetBorderColor 30 144 255
-    SetFontSize 45
-    PlayAlertSound 4 300
+    SetFontSize 40
+    CustomAlertSound "mx_essence.mp3"
 

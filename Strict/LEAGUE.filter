@@ -67,7 +67,7 @@ Show
     CustomAlertSound "mx_league.mp3"
 
 Show
-    BaseType "Amber Oil" "Azure Oil" "Clear Oil" "Crimson Oil" "Teal Oil" "Verdant Oil" "Violet Oil"
+    BaseType "Amber Oil" "Azure Oil" "Clear Oil" "Crimson Oil" "Teal Oil" "Verdant Oil" "Violet Oil" "Sepia Oil"
     SetTextColor 112 255 112 255
     SetBackgroundColor 0 0 0 255
     SetBorderColor 112 255 112 255
