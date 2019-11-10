@@ -282,9 +282,9 @@ Show
     SetTextColor 227 204 171
     SetBackgroundColor 54 32 3
     SetBorderColor 24 105 184
-    SetFontSize 35
+    SetFontSize 40
     PlayEffect Brown Temp
-    CustomAlertSound "mx_currency_t2.mp3"
+    CustomAlertSound "mx_rareorb.mp3"
 
 Show
     Class "Currency"
