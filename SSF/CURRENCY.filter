@@ -301,6 +301,7 @@ Show
     BaseType "Orb of Transmutation" "Orb of Augmentation"
     SetTextColor 227 204 171
     SetBackgroundColor 54 32 3
+    SetBorderColor 24 105 184
     SetFontSize 35
     PlayEffect Brown Temp
     CustomAlertSound "mx_currency_t2.mp3"
