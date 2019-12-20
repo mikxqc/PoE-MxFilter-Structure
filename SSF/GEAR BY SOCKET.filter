@@ -1,0 +1,77 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    LinkedSockets = 6
+    Rarity = Rare
+    SetTextColor 186 186 9
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 45
+
+Show
+    LinkedSockets = 6
+    Rarity = Magic
+    SetTextColor 136 136 255
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 45
+
+Show
+    LinkedSockets = 6
+    Rarity = Normal
+    SetTextColor 127 127 127
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 45
+
+Show
+    LinkedSockets = 5
+    Rarity = Rare
+    SetTextColor 186 186 9
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 40
+
+Show
+    LinkedSockets = 5
+    Rarity = Magic
+    SetTextColor 136 136 255
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 40
+
+Show
+    LinkedSockets = 5
+    Rarity = Normal
+    SetTextColor 127 127 127
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 40
+
+Show
+    LinkedSockets = 4
+    ItemLevel <= 70
+    Rarity = Rare
+    SetTextColor 186 186 9
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 35
+
+Show
+    LinkedSockets = 4
+    ItemLevel <= 70
+    Rarity = Magic
+    SetTextColor 136 136 255
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 35
+
+Show
+    LinkedSockets = 4
+    ItemLevel <= 70
+    Rarity = Normal
+    SetTextColor 127 127 127
+    SetBackgroundColor 255 255 255
+    SetBorderColor 210 0 220
+    SetFontSize 35
+
