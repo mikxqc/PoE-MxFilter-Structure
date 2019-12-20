@@ -51,6 +51,9 @@
 			"section": "GEAR BY CHASE",
 			"gen": false
 		}, {
+			"section": "GEAR BY SOCKET",
+			"gen": false
+		}, {
 			"section": "GEAR BY QUALITY",
 			"gen": false
 		}, {

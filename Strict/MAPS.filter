@@ -31,7 +31,7 @@ Show
     PlayEffect Yellow
 
 Show
-    BaseType "Master Cartographer's Sextant"
+    BaseType "Awakened Sextant"
     SetTextColor 0 0 0
     SetBackgroundColor 130 34 16
     SetBorderColor 255 0 0
@@ -39,7 +39,7 @@ Show
     PlayAlertSound 11 300
 
 Show
-    BaseType "Journeyman Cartographer's Sextant"
+    BaseType "Prime Sextant"
     SetTextColor 0 0 0
     SetBackgroundColor 130 34 16
     SetBorderColor 255 215 0
@@ -47,7 +47,7 @@ Show
     PlayAlertSound 11 300
 
 Show
-    BaseType "Apprentice Cartographer's Sextant"
+    BaseType "Simple Sextant"
     SetTextColor 0 0 0
     SetBackgroundColor 130 34 16
     SetBorderColor 170 158 130

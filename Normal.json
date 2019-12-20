@@ -63,6 +63,9 @@
 			"section": "RECIPES",
 			"gen": false
 		}, {
+			"section": "GEAR BY SOCKET",
+			"gen": false
+		}, {
 			"section": "GEAR BY QUALITY",
 			"gen": false
 		}, {
