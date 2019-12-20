@@ -7,6 +7,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 45
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     LinkedSockets = 6
@@ -15,6 +16,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 45
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     LinkedSockets = 6
@@ -23,6 +25,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 45
+    CustomAlertSound "mx_highvalue.mp3"
 
 Show
     LinkedSockets = 5
@@ -31,6 +34,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 40
+    CustomAlertSound "mx_chase.mp3"
 
 Show
     LinkedSockets = 5
@@ -39,6 +43,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 40
+    CustomAlertSound "mx_chase.mp3"
 
 Show
     LinkedSockets = 5
@@ -47,6 +52,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 40
+    CustomAlertSound "mx_chase.mp3"
 
 Show
     LinkedSockets = 4
@@ -56,6 +62,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 35
+    CustomAlertSound "mx_tier.mp3"
 
 Show
     LinkedSockets = 4
@@ -65,6 +72,7 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 35
+    CustomAlertSound "mx_tier.mp3"
 
 Show
     LinkedSockets = 4
@@ -74,4 +82,5 @@ Show
     SetBackgroundColor 255 255 255
     SetBorderColor 210 0 220
     SetFontSize 35
+    CustomAlertSound "mx_tier.mp3"
 
