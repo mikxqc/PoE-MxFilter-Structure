@@ -2,6 +2,9 @@
 	"structures": [{
 			"section": "LEAGUE",
 			"gen": false
+		},{
+			"section": "FOSSIL",
+			"gen": false
 		}, {
 			"section": "MISC",
 			"gen": false

@@ -1,0 +1,10 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+    BaseType "Fossil"
+    SetTextColor 255 165 0 255
+    SetBackgroundColor 56 56 56
+    SetBorderColor 255 165 0 255
+    SetFontSize 40
+    CustomAlertSound "mx_fossil.mp3"
+
