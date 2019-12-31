@@ -24,26 +24,11 @@
 			"section": "JEWEL",
 			"gen": false
 		}, {
-			"section": "DIVINATION CARD (GEN)",
-			"gen": true
-		}, {
 			"section": "DIVINATION CARD",
 			"gen": false
 		}, {
 			"section": "CURRENCY",
 			"gen": false
-		}, {
-			"section": "EXPENSIVE UNIQUE (GEN) (Maps)",
-			"gen": true
-		}, {
-			"section": "EXPENSIVE UNIQUE (GEN) (Weapons)",
-			"gen": true
-		}, {
-			"section": "EXPENSIVE UNIQUE (GEN) (Armours)",
-			"gen": true
-		}, {
-			"section": "EXPENSIVE UNIQUE (GEN) (Accessories)",
-			"gen": true
 		}, {
 			"section": "ABYSS BELT",
 			"gen": false
