@@ -24,6 +24,9 @@
 			"section": "JEWEL",
 			"gen": false
 		}, {
+			"section": "DIVINATION CARD (GEN)",
+			"gen": true
+		}, {
 			"section": "DIVINATION CARD",
 			"gen": false
 		}, {
