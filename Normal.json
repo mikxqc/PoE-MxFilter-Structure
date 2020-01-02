@@ -33,6 +33,15 @@
 			"section": "CURRENCY",
 			"gen": false
 		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Weapons)",
+			"gen": true
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Armours)",
+			"gen": true
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Accessories)",
+			"gen": true
+		}, {
 			"section": "ABYSS BELT",
 			"gen": false
 		}, {
