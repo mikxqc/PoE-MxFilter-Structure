@@ -99,6 +99,15 @@ Show
     CustomAlertSound "mx_league.mp3"
 
 Show
+    AnyEnchantment True
+    Rarity = Rare
+    SetTextColor 255 255 0
+    SetBackgroundColor 61 61 84
+    SetBorderColor 136 136 255
+    SetFontSize 40
+    CustomAlertSound "mx_tier.mp3"
+
+Show
     Corrupted True
     Rarity = Rare
     SetTextColor 255 255 0

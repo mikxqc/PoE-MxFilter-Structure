@@ -1,0 +1,11 @@
+﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+
+Show
+	HasInfluence Shaper Elder Crusader Redeemer Hunter Warlord
+    SetTextColor 255 215 0
+    SetBackgroundColor 54 54 54
+    SetBorderColor 30 144 255
+    SetFontSize 45
+    MinimapIcon 0 Blue Star
+    CustomAlertSound "mx_influenced.mp3"
+
