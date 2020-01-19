@@ -3,6 +3,9 @@
 			"section": "LEAGUE",
 			"gen": false
 		},{
+			"section": "FOSSIL (GEN)",
+			"gen": true
+		},{
 			"section": "FOSSIL",
 			"gen": false
 		}, {
