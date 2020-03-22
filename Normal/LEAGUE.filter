@@ -3,6 +3,36 @@
 # Legion
 
 Show
+    Class "Jewel"
+    BaseType "Large Cluster"
+    SetTextColor 200 200 200
+    SetBackgroundColor 9 43 77
+    SetBorderColor 112 255 112 255
+    SetFontSize 45
+    PlayEffect Blue Temp
+    CustomAlertSound "mx_league.mp3"
+
+Show
+    Class "Jewel"
+    BaseType "Medium Cluster"
+    SetTextColor 200 200 200
+    SetBackgroundColor 9 43 77
+    SetBorderColor 112 255 112 255
+    SetFontSize 40
+    PlayEffect Blue Temp
+    CustomAlertSound "mx_league.mp3"
+
+Show
+    Class "Jewel"
+    BaseType "Small Cluster"
+    SetTextColor 200 200 200
+    SetBackgroundColor 9 43 77
+    SetBorderColor 112 255 112 255
+    SetFontSize 35
+    PlayEffect Blue Temp
+    CustomAlertSound "mx_league.mp3"
+
+Show
     BaseType "Timeless Eternal Empire Splinter"
     SetTextColor 127 127 127 255
     SetBackgroundColor 0 0 0 255
