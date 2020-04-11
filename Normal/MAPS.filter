@@ -157,3 +157,53 @@ Show
     PlayEffect White
     CustomAlertSound "mx_map.mp3"
 
+Show
+    BaseType "Cobalt Watchstone"
+    SetTextColor 30 144 255
+    SetBackgroundColor 94 3 3
+    SetBorderColor 128 128 128 255
+    SetFontSize 40
+    MinimapIcon 1 Blue Circle
+    PlayEffect Blue
+    CustomAlertSound "mx_flask.mp3"
+
+Show
+    BaseType "Crimson Watchstone"
+    SetTextColor 255 40 0 220
+    SetBackgroundColor 94 3 3
+    SetBorderColor 128 128 128 255
+    SetFontSize 40
+    MinimapIcon 1 Red Circle
+    PlayEffect Red
+    CustomAlertSound "mx_flask.mp3"
+
+Show
+    BaseType "Golden Watchstone"
+    SetTextColor 255 200 0
+    SetBackgroundColor 94 3 3
+    SetBorderColor 128 128 128 255
+    SetFontSize 40
+    MinimapIcon 1 Yellow Circle
+    PlayEffect Yellow
+    CustomAlertSound "mx_flask.mp3"
+
+Show
+    BaseType "Ivory Watchstone"
+    SetTextColor 255 255 255
+    SetBackgroundColor 94 3 3
+    SetBorderColor 128 128 128 255
+    SetFontSize 40
+    MinimapIcon 1 White Circle
+    PlayEffect White
+    CustomAlertSound "mx_flask.mp3"
+
+Show
+    BaseType "Viridian Watchstone"
+    SetTextColor 50 230 100
+    SetBackgroundColor 94 3 3
+    SetBorderColor 128 128 128 255
+    SetFontSize 40
+    MinimapIcon 1 Green Circle
+    PlayEffect Green
+    CustomAlertSound "mx_flask.mp3"
+
