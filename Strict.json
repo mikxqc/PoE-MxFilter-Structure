@@ -30,6 +30,9 @@
 			"section": "DIVINATION CARD",
 			"gen": false
 		}, {
+			"section": "DIVINATION CARD (GEN)",
+			"gen": false
+		}, {
 			"section": "CURRENCY",
 			"gen": false
 		}, {
