@@ -122,4 +122,44 @@ Show
     SetFontSize 45
     PlayEffect Green Temp
     CustomAlertSound "mx_liquid.mp3"
+	
+Show
+    Class "Seed"
+    BaseType "Wild"
+    SetTextColor 210 0 220
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 38
+    PlayEffect Green Temp
+    CustomAlertSound "mx_tier.mp3"
+
+Show
+    Class "Seed"
+    BaseType "Wild"
+    SetTextColor 210 0 220
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 38
+    PlayEffect Green Temp
+    CustomAlertSound "mx_tier.mp3"
+
+Show
+    Class "Seed"
+    BaseType "Vivid"
+    SetTextColor 255 200 0
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 38
+    PlayEffect Green Temp
+    CustomAlertSound "mx_tier.mp3"
+
+Show
+    Class "Seed"
+    BaseType "Primal"
+    SetTextColor 47 148 247
+    SetBackgroundColor 0 0 0 255
+    SetBorderColor 112 255 112 255
+    SetFontSize 38
+    PlayEffect Green Temp
+    CustomAlertSound "mx_tier.mp3"
 
