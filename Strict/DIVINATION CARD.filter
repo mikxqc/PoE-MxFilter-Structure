@@ -10,10 +10,22 @@ Show
     CustomAlertSound "mx_chase.mp3"
 
 Show
+    BaseType "Stacked Deck"
+    SetTextColor 184 218 242
+    SetBackgroundColor 89 89 89
+    SetBorderColor 184 218 242
+    SetFontSize 45
+    MinimapIcon 0 Cyan UpsideDownHouse
+    PlayEffect Cyan
+    CustomAlertSound "mx_rareorb.mp3"
+
+Show
     Class "Divination Card"
     SetTextColor 184 218 242
     SetBackgroundColor 0 0 0
     SetBorderColor 184 218 242
     SetFontSize 40
+    MinimapIcon 0 Cyan UpsideDownHouse
+    PlayEffect Cyan Temp
     CustomAlertSound "mx_div.mp3"
 
