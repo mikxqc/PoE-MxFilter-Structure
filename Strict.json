@@ -3,6 +3,9 @@
 			"section": "LEAGUE",
 			"gen": false
 		},{
+			"section": "RECIPES",
+			"gen": false
+		},{
 			"section": "FOSSIL (GEN)",
 			"gen": true
 		},{
@@ -58,9 +61,6 @@
 			"gen": false
 		}, {
 			"section": "BELT",
-			"gen": false
-		}, {
-			"section": "RECIPES",
 			"gen": false
 		}, {
 			"section": "GEAR BY SOCKET",

@@ -2,6 +2,9 @@
 	"structures": [{
 			"section": "LEAGUE",
 			"gen": false
+		}, {
+			"section": "RECIPES",
+			"gen": false
 		},{
 			"section": "FOSSIL",
 			"gen": false
@@ -40,9 +43,6 @@
 			"gen": false
 		}, {
 			"section": "BELT",
-			"gen": false
-		}, {
-			"section": "RECIPES",
 			"gen": false
 		}, {
 			"section": "GEAR BY CHASE",
