@@ -1,109 +1,137 @@
-﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+﻿#===============================================================================
+# 
+#===============================================================================
+#
+# NAME:          
+# VERSION:       
+# AUTHOR:        
+# CONTACT:       
+# LINK:          
+#
+# Default strictness: 0
+#
+# Created with Filter Master editor at https://grinding.zone
+#
+#===============================================================================
+
+
+
 
 Show
-    LinkedSockets = 6
-    SetTextColor 74 0 160
-    SetBackgroundColor 255 255 255
-    SetBorderColor 74 0 160
-    SetFontSize 45
-    MinimapIcon 0 White Triangle
-    PlayEffect White
-    CustomAlertSound "mx_highvalue.mp3"
+	LinkedSockets = 6
+	SetTextColor 74 0 160 255
+	SetBackgroundColor 255 255 255 240
+	SetBorderColor 74 0 160 255
+	SetFontSize 45
+	CustomAlertSound "mx_highvalue.mp3"
+	MinimapIcon 0 White Triangle
+	PlayEffect White 
 
 Show
-    Sockets = 6
-    Height = 4
-    SetTextColor 168 93 255
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 45
-    MinimapIcon 0 Blue Diamond
-    PlayEffect Blue
-    CustomAlertSound "mx_recipe.mp3"
+	Sockets = "6"
+	Height = 4
+	SetTextColor 168 93 255 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 45
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 Purple Diamond
+	PlayEffect Blue 
 
 Show
-    Sockets = 6
-    Height = 3
-    SetTextColor 168 93 255
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 40
-    CustomAlertSound "mx_recipe.mp3"
-    MinimapIcon 0 Blue Diamond
-    PlayEffect Blue
+	Sockets = "6"
+	Height = 3
+	SetTextColor 168 93 255 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 40
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 Purple Diamond
+	PlayEffect Blue 
 
 Show
-    LinkedSockets >= 3
-    SocketGroup "RGB"
-    Height = 4
-    SetTextColor 200 200 200
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 45
-    CustomAlertSound "mx_recipe.mp3"
-    MinimapIcon 1 Blue Diamond
-    PlayEffect Blue
+	LinkedSockets >= 3
+	SocketGroup >= "RGB"
+	Height = 4
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 45
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 White Diamond
+	PlayEffect Blue 
 
 Show
-    LinkedSockets >= 3
-    SocketGroup "RGB"
-    Height = 3
-    Width = 2
-    SetTextColor 200 200 200
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 40
-    CustomAlertSound "mx_recipe.mp3"
-    MinimapIcon 1 Blue Diamond
-    PlayEffect Blue
+	LinkedSockets >= 3
+	SocketGroup >= "RGB"
+	Height = 3
+	Width = 2
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 40
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 White Diamond
+	PlayEffect Blue 
 
 Show
-    LinkedSockets >= 3
-    SocketGroup "RGB"
-    Height = 2
-    Width = 2
-    SetTextColor 200 200 200
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 35
-    CustomAlertSound "mx_recipe.mp3"
-    MinimapIcon 1 Blue Diamond
-    PlayEffect Blue
+	LinkedSockets >= 3
+	SocketGroup >= "RGB"
+	Height = 2
+	Width = 2
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 35
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 White Diamond
+	PlayEffect Blue 
 
 Show
-    LinkedSockets >= 3
-    SocketGroup "RGB"
-    Height = 1
-    Width = 2
-    SetTextColor 200 200 200
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 30
-    CustomAlertSound "mx_recipe.mp3"
-    MinimapIcon 1 Blue Diamond
-    PlayEffect Blue
+	LinkedSockets >= 3
+	SocketGroup >= "RGB"
+	Height = 1
+	Width = 2
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 30
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 White Diamond
+	PlayEffect Blue 
 
 Show
-    LinkedSockets >= 3
-    SocketGroup "RGB"
-    Height = 3
-    Width = 1
-    SetTextColor 200 200 200
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 30
-    CustomAlertSound "mx_recipe.mp3"
-    MinimapIcon 1 Blue Diamond
-    PlayEffect Blue
+	LinkedSockets >= 3
+	SocketGroup >= "RGB"
+	Height = 3
+	Width = 1
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 30
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 White Diamond
+	PlayEffect Blue 
 
 Show
-    Rarity = Normal
-    BaseType "Stone Hammer" "Rock Breaker" "Gavel"
-    SetTextColor 219 182 127
-    SetBackgroundColor 38 35 35
-    SetBorderColor 136 136 255
-    SetFontSize 40
-    CustomAlertSound "mx_recipe.mp3"
-    MinimapIcon 2 Blue Diamond
-    PlayEffect Blue
+	Rarity = Normal
+	BaseType = "Stone Hammer" "Rock Breaker" "Gavel"
+	SetTextColor 219 182 127 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 40
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 Brown Diamond
+	PlayEffect Blue 
+
+Show
+	Quality >= 1
+	BaseType = "Flask"
+	SetTextColor 122 217 224 255
+	SetBackgroundColor 38 35 35 240
+	SetBorderColor 136 136 255 255
+	SetFontSize 40
+	CustomAlertSound "mx_recipe.mp3"
+	MinimapIcon 0 Cyan Diamond
+	PlayEffect Blue 
 
