@@ -2,9 +2,12 @@
 	"structures": [{
 			"section": "LEAGUE",
 			"gen": false
-		}, {
+		},{
 			"section": "RECIPES",
 			"gen": false
+		},{
+			"section": "FOSSIL (GEN)",
+			"gen": true
 		},{
 			"section": "FOSSIL",
 			"gen": false
@@ -30,8 +33,20 @@
 			"section": "DIVINATION CARD",
 			"gen": false
 		}, {
+			"section": "DIVINATION CARD (GEN)",
+			"gen": true
+		}, {
 			"section": "CURRENCY",
 			"gen": false
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Weapons)",
+			"gen": true
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Armours)",
+			"gen": true
+		}, {
+			"section": "EXPENSIVE UNIQUE (GEN) (Accessories)",
+			"gen": true
 		}, {
 			"section": "ABYSS BELT",
 			"gen": false
@@ -39,22 +54,19 @@
 			"section": "INFLUENCED",
 			"gen": false
 		}, {
+			"section": "Tiers (DATA)",
+			"gen": true
+		}, {
 			"section": "RING & AMULET",
 			"gen": false
 		}, {
 			"section": "BELT",
 			"gen": false
 		}, {
-			"section": "GEAR BY CHASE",
-			"gen": false
-		}, {
 			"section": "GEAR BY SOCKET",
 			"gen": false
 		}, {
 			"section": "GEAR BY QUALITY",
-			"gen": false
-		}, {
-			"section": "CHANCING",
 			"gen": false
 		}, {
 			"section": "HIDE",

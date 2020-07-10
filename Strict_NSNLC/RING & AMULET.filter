@@ -10,28 +10,12 @@ Show
     SetFontSize 40
 
 Show
-    Rarity = Normal
-    Class "Rings"
-    SetTextColor 255 255 255
-    SetBackgroundColor 54 54 54
-    SetBorderColor 128 0 128
-    SetFontSize 30
-
-Show
     Rarity = Rare
     Class "Rings"
     SetTextColor 255 255 119
     SetBackgroundColor 54 54 54
     SetBorderColor 128 0 128
     SetFontSize 40
-
-Show
-    Rarity = Normal
-    Class "Amulets"
-    SetTextColor 255 255 255
-    SetBackgroundColor 54 54 54
-    SetBorderColor 128 0 128
-    SetFontSize 30
 
 Show
     Rarity = Rare
