@@ -1,165 +1,204 @@
-﻿# Script edited with Filtration - https://github.com/ben-wallis/Filtration
+﻿#===============================================================================
+# 
+#===============================================================================
+#
+# NAME:          
+# VERSION:       
+# AUTHOR:        
+# CONTACT:       
+# LINK:          
+#
+# Default strictness: 0
+#
+# Created with Filter Master editor at https://grinding.zone
+#
+#===============================================================================
 
-# Legion
 
-Show
-    Class "Jewel"
-    BaseType "Large Cluster"
-    SetTextColor 200 200 200
-    SetBackgroundColor 9 43 77
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Blue Temp
-    CustomAlertSound "mx_league.mp3"
 
-Show
-    Class "Jewel"
-    BaseType "Medium Cluster"
-    SetTextColor 200 200 200
-    SetBackgroundColor 9 43 77
-    SetBorderColor 112 255 112 255
-    SetFontSize 40
-    PlayEffect Blue Temp
-    CustomAlertSound "mx_league.mp3"
 
 Show
-    Class "Jewel"
-    BaseType "Small Cluster"
-    SetTextColor 200 200 200
-    SetBackgroundColor 9 43 77
-    SetBorderColor 112 255 112 255
-    SetFontSize 35
-    PlayEffect Blue Temp
-    CustomAlertSound "mx_league.mp3"
+	Class = "Blueprint"
+	SetTextColor 192 192 192 255
+	SetBackgroundColor 51 51 49 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_league.mp3"
 
 Show
-    BaseType "Timeless Eternal Empire Splinter"
-    SetTextColor 127 127 127 255
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_splinter.mp3"
+	Class = "Contract"
+	SetTextColor 192 192 192 255
+	SetBackgroundColor 51 51 49 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 40
+	CustomAlertSound "mx_league.mp3"
 
 Show
-    BaseType "Timeless Karui Splinter"
-    SetTextColor 255 163 0
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_splinter.mp3"
+	BaseType = "Rogue's Marker"
+	SetTextColor 255 0 0 255
+	SetBackgroundColor 51 51 49 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 35
+	CustomAlertSound "mx_league.mp3"
 
 Show
-    BaseType "Timeless Maraketh Splinter"
-    SetTextColor 247 247 169
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_splinter.mp3"
+	Class = "Jewel"
+	BaseType = "Large Cluster"
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 9 43 77 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_league.mp3"
+	PlayEffect Blue Temp
 
 Show
-    BaseType "Timeless Templar Splinter"
-    SetTextColor 0 128 0 255
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_splinter.mp3"
+	Class = "Jewel"
+	BaseType = "Medium Cluster"
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 9 43 77 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 40
+	CustomAlertSound "mx_league.mp3"
+	PlayEffect Blue Temp
 
 Show
-    BaseType "Timeless Vaal Splinter"
-    SetTextColor 210 0 0
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_splinter.mp3"
+	Class = "Jewel"
+	BaseType = "Small Cluster"
+	SetTextColor 200 200 200 255
+	SetBackgroundColor 9 43 77 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 35
+	CustomAlertSound "mx_league.mp3"
+	PlayEffect Blue Temp
 
 Show
-    Class "Incubator"
-    SetTextColor 112 255 112 255
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_league.mp3"
+	BaseType = "Timeless Eternal Empire Splinter"
+	SetTextColor 127 127 127 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_splinter.mp3"
+	PlayEffect Green Temp
 
 Show
-    BlightedMap True
-    SetTextColor 112 255 112 255
-    SetBackgroundColor 94 3 3
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    MinimapIcon 1 Green Triangle
-    PlayEffect Green
-    CustomAlertSound "mx_league.mp3"
+	BaseType = "Timeless Karui Splinter"
+	SetTextColor 255 163 0 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_splinter.mp3"
+	PlayEffect Green Temp
 
 Show
-    BaseType "Amber Oil" "Azure Oil" "Clear Oil" "Crimson Oil" "Teal Oil" "Verdant Oil" "Violet Oil" "Sepia Oil"
-    SetTextColor 112 255 112 255
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 40
-    PlayEffect Green Temp
-    CustomAlertSound "mx_liquid.mp3"
+	BaseType = "Timeless Maraketh Splinter"
+	SetTextColor 247 247 169 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_splinter.mp3"
+	PlayEffect Green Temp
 
 Show
-    BaseType "Black Oil" "Opalescent Oil" "Silver Oil"
-    SetTextColor 112 255 112 255
-    SetBackgroundColor 97 97 97
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_liquid.mp3"
+	BaseType = "Timeless Templar Splinter"
+	SetTextColor 0 128 0 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_splinter.mp3"
+	PlayEffect Green Temp
 
 Show
-    BaseType "Golden Oil"
-    SetTextColor 112 255 112 255
-    SetBackgroundColor 255 255 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 45
-    PlayEffect Green Temp
-    CustomAlertSound "mx_liquid.mp3"
-	
-Show
-    Class "Seed"
-    BaseType "Wild"
-    SetTextColor 210 0 220
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 38
-    PlayEffect Green Temp
-    CustomAlertSound "mx_tier.mp3"
+	BaseType = "Timeless Vaal Splinter"
+	SetTextColor 210 0 0 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_splinter.mp3"
+	PlayEffect Green Temp
 
 Show
-    Class "Seed"
-    BaseType "Wild"
-    SetTextColor 210 0 220
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 38
-    PlayEffect Green Temp
-    CustomAlertSound "mx_tier.mp3"
+	Class = "Incubator"
+	SetTextColor 112 255 112 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_league.mp3"
+	PlayEffect Green Temp
 
 Show
-    Class "Seed"
-    BaseType "Vivid"
-    SetTextColor 255 200 0
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 38
-    PlayEffect Green Temp
-    CustomAlertSound "mx_tier.mp3"
+	BlightedMap = True
+	SetTextColor 112 255 112 255
+	SetBackgroundColor 94 3 3 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_league.mp3"
+	MinimapIcon 1 Green Triangle
+	PlayEffect Green 
 
 Show
-    Class "Seed"
-    BaseType "Primal"
-    SetTextColor 47 148 247
-    SetBackgroundColor 0 0 0 255
-    SetBorderColor 112 255 112 255
-    SetFontSize 38
-    PlayEffect Green Temp
-    CustomAlertSound "mx_tier.mp3"
+	BaseType = "Amber Oil" "Azure Oil" "Clear Oil" "Crimson Oil" "Teal Oil" "Verdant Oil" "Violet Oil" "Sepia Oil"
+	SetTextColor 112 255 112 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 40
+	CustomAlertSound "mx_liquid.mp3"
+	PlayEffect Green Temp
+
+Show
+	BaseType = "Black Oil" "Opalescent Oil" "Silver Oil"
+	SetTextColor 112 255 112 255
+	SetBackgroundColor 97 97 97 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_liquid.mp3"
+	PlayEffect Green Temp
+
+Show
+	BaseType = "Golden Oil"
+	SetTextColor 112 255 112 255
+	SetBackgroundColor 255 255 255 240
+	SetBorderColor 112 255 112 255
+	SetFontSize 45
+	CustomAlertSound "mx_liquid.mp3"
+	PlayEffect Green Temp
+
+Show
+	Class = "Seed"
+	BaseType = "Wild"
+	SetTextColor 210 0 220 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 38
+	CustomAlertSound "mx_tier.mp3"
+	PlayEffect Green Temp
+
+Show
+	Class = "Seed"
+	BaseType = "Wild"
+	SetTextColor 210 0 220 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 38
+	CustomAlertSound "mx_tier.mp3"
+	PlayEffect Green Temp
+
+Show
+	Class = "Seed"
+	BaseType = "Vivid"
+	SetTextColor 255 200 0 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 38
+	CustomAlertSound "mx_tier.mp3"
+	PlayEffect Green Temp
+
+Show
+	Class = "Seed"
+	BaseType = "Primal"
+	SetTextColor 47 148 247 255
+	SetBackgroundColor 0 0 0 255
+	SetBorderColor 112 255 112 255
+	SetFontSize 38
+	CustomAlertSound "mx_tier.mp3"
+	PlayEffect Green Temp
 
